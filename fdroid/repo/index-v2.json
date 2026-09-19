@@ -14,7 +14,7 @@
       }
     },
     "address": "https://idlefantasy.tristinbaker.xyz/fdroid/repo",
-    "timestamp": 1789382015433,
+    "timestamp": 1789831092644,
     "categories": {
       "Games": {
         "name": {
@@ -31,7 +31,7 @@
           "Games"
         ],
         "issueTracker": "https://github.com/tristinbaker/IdleFantasy/issues",
-        "lastUpdated": 1789381975800,
+        "lastUpdated": 1789831052462,
         "license": "GPL-3.0-only",
         "sourceCode": "https://github.com/tristinbaker/IdleFantasy",
         "screenshots": {
@@ -140,12 +140,12 @@
         "preferredSigner": "99a980a934cb0149bfbdd5f4358471ffe69302e0467bae4d8574d4feeda34010"
       },
       "versions": {
-        "599c96fbae877caf33c5d6f0da2896d694acd4d9a38d75f3ad706d0e2bb91500": {
-          "added": 1789381975800,
+        "8c6cef72167d6ad3992cbd526ea02af991258b9b1aee24439efb4864c3e54109": {
+          "added": 1789831052462,
           "file": {
-            "name": "/com.tristinbaker.idlefantasy_149004.apk",
-            "sha256": "599c96fbae877caf33c5d6f0da2896d694acd4d9a38d75f3ad706d0e2bb91500",
-            "size": 10629171
+            "name": "/com.tristinbaker.idlefantasy_149005.apk",
+            "sha256": "8c6cef72167d6ad3992cbd526ea02af991258b9b1aee24439efb4864c3e54109",
+            "size": 10659063
           },
           "manifest": {
             "nativecode": [
@@ -154,8 +154,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "1.14.13",
-            "versionCode": 149004,
+            "versionName": "1.14.14",
+            "versionCode": 149005,
             "usesSdk": {
               "minSdkVersion": 26,
               "targetSdkVersion": 35
@@ -187,7 +187,7 @@
             ]
           },
           "whatsNew": {
-            "en-US": "• Bannered Feast tokens no longer climb past the feast's token goal\n• Boss fight timers on the Home and Skills screens now match the Combat screen's full-length fight clock\n• Session complete dialogs and queue previews now include prestige XP bonuses, matching the XP actually paid out (no XP was ever lost)\n• Fixed the first tap after scrolling in a bottom sheet being swallowed; sheet content no longer drags the sheet itself, and flinging down from the top of a list still closes it\n• New: choose "
+            "en-US": "• The Runecrafting sheet now shows the total runes a session will produce and correctly factors the level and ash catalyst multipliers into the projected XP, so a redwood-ashes run no longer under-reports either\n• Rotating a piece of furniture in the house editor no longer treats it as a new purchase; rotation variants share ownership and storage with the base piece\n• The Herblore potion sheet now lists every ash tier the player owns, dimming ones that don't cover the current quantity with an \"o"
           }
         },
         "83877ff9f65d160a274254ee812a21834d042912599ef8e4ac8fda246110e935": {
