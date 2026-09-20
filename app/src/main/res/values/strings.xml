@@ -1457,10 +1457,13 @@
     <string name="crafting_tier_maple">Maple</string>
     <string name="crafting_tier_mithril">Mithril</string>
     <string name="crafting_tier_oak">Oak</string>
+    <string name="crafting_tier_plank">Plank</string>
     <string name="crafting_tier_platinum">Platinum</string>
+    <string name="crafting_tier_redwood">Redwood</string>
     <string name="crafting_tier_runite">Runite</string>
     <string name="crafting_tier_silver">Silver</string>
     <string name="crafting_tier_steel">Steel</string>
+    <string name="crafting_tier_stone">Stone</string>
     <string name="crafting_tier_willow">Willow</string>
     <string name="crafting_tier_yew">Yew</string>
 

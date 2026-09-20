@@ -104,6 +104,18 @@ data class CraftableRecipe(
 private fun tierFromKey(key: String) =
     key.substringBefore('_').replaceFirstChar { it.uppercase() }
 
+private val CONSTRUCTION_WOOD_TIERS = listOf("redwood", "magic", "yew", "maple", "willow", "oak")
+
+private fun constructionTierFromMaterials(materials: Map<String, Int>): String {
+    val woodTier = CONSTRUCTION_WOOD_TIERS.firstOrNull { "${it}_plank" in materials }
+    return when {
+        woodTier != null                                            -> woodTier.replaceFirstChar { it.uppercase() }
+        "plank" in materials                                        -> "Plank"
+        "stone" in materials || "carved_stone" in materials          -> "Stone"
+        else                                                         -> ""
+    }
+}
+
 private val ARMOUR_SLOTS = setOf(
     EquipSlot.HEAD, EquipSlot.BODY, EquipSlot.LEGS,
     EquipSlot.BOOTS, EquipSlot.CAPE, EquipSlot.SHIELD,
@@ -376,6 +388,7 @@ class CraftingViewModel @Inject constructor(
                 xpPerItem     = r.xpPerItem,
                 skillName     = Skills.CONSTRUCTION,
                 category      = "Furniture",
+                tier          = constructionTierFromMaterials(r.materials),
             )
         }.sortedBy { it.levelRequired }
     }
