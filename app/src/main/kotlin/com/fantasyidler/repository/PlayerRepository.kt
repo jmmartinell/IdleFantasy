@@ -1549,12 +1549,12 @@ class PlayerRepository @Inject constructor(
         val player = getOrCreatePlayer()
         val original: PlayerFlags = json.decodeFromString(player.flags)
         var flags = original
-        if (dailyQuestRepo.shouldRefresh(flags.dailyQuestGeneratedAt, flags.dailyResetHour) ||
-            weeklyQuestRepo.shouldRefresh(flags.weeklyQuestGeneratedAt, flags.dailyResetHour)
+        if (dailyQuestRepo.shouldRefresh(flags.dailyQuestNextResetAt) ||
+            weeklyQuestRepo.shouldRefresh(flags.weeklyQuestNextResetAt)
         ) {
             val skillLevels: Map<String, Int> = json.decodeFromString(player.skillLevels)
-            if (dailyQuestRepo.shouldRefresh(flags.dailyQuestGeneratedAt, flags.dailyResetHour)) flags = dailyQuestRepo.refreshFlags(flags, skillLevels)
-            if (weeklyQuestRepo.shouldRefresh(flags.weeklyQuestGeneratedAt, flags.dailyResetHour)) flags = weeklyQuestRepo.refreshFlags(flags, skillLevels)
+            if (dailyQuestRepo.shouldRefresh(flags.dailyQuestNextResetAt)) flags = dailyQuestRepo.refreshFlags(flags, skillLevels)
+            if (weeklyQuestRepo.shouldRefresh(flags.weeklyQuestNextResetAt)) flags = weeklyQuestRepo.refreshFlags(flags, skillLevels)
         }
         flags = transform(flags)
         if (flags != original) updateFlagsUnlocked(flags)
@@ -1615,12 +1615,12 @@ class PlayerRepository @Inject constructor(
         var changed = false
         val skillLevels: Map<String, Int> by lazy { json.decodeFromString(player.skillLevels) }
 
-        if (dailyQuestRepo.shouldRefresh(flags.dailyQuestGeneratedAt, flags.dailyResetHour)) {
+        if (dailyQuestRepo.shouldRefresh(flags.dailyQuestNextResetAt)) {
             flags = dailyQuestRepo.refreshFlags(flags, skillLevels)
             changed = true
         }
 
-        if (weeklyQuestRepo.shouldRefresh(flags.weeklyQuestGeneratedAt, flags.dailyResetHour)) {
+        if (weeklyQuestRepo.shouldRefresh(flags.weeklyQuestNextResetAt)) {
             flags = weeklyQuestRepo.refreshFlags(flags, skillLevels)
             changed = true
         }
