@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Story & Lore — Idle Fantasy Wiki</title>
+  <link rel="stylesheet" href="assets/style.css?v=5">
+  <link rel="icon" type="image/x-icon" href="assets/images/favicon.png">
+  <script data-goatcounter="https://idlefantasy.goatcounter.com/count"
+          async src="//gc.zgo.at/count.js"></script>
+  <script>
+    (function() {
+      var stored = localStorage.getItem('theme');
+      var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      document.documentElement.setAttribute('data-theme', stored || (prefersDark ? 'dark' : 'light'));
+    })();
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <button id="nav-toggle" class="nav-toggle" aria-label="Open navigation" aria-expanded="false">&#9776;</button>
+    <a class="site-title" href="index.html">
+      <span class="site-icon">&#9876;&#65039;</span>
+      Idle Fantasy Wiki
+    </a>
+    <span class="site-tagline">Community reference for all skills, combat, and crafting</span>
+    <div id="search" class="search">
+      <input id="search-input" class="search-input" type="search" placeholder="Search…"
+             autocomplete="off" spellcheck="false" aria-label="Search the wiki">
+      <ul id="search-results" class="search-results" hidden></ul>
+    </div>
+    <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode" title="Toggle dark mode"></button>
+  </header>
+
+  <div id="nav-backdrop" class="nav-backdrop"></div>
+
+  <div class="layout">
+    <nav id="sidebar" class="sidebar" aria-label="Wiki navigation">
+      <ul>
+<li><a href="Home.html">Home</a></li>
+<li class="nav-section"><span class="nav-label">Contributing</span><ul>
+<li><a href="getting_started_game.html">Getting Started - Game Contributions</a></li>
+<li><a href="getting_started_wiki.html">Getting Started - Wiki Contributions</a></li>
+<li><a href="wiki_page_types.html">Types of Wiki Pages</a></li>
+</ul></li>
+<li class="nav-section"><span class="nav-label">Skills</span><ul>
+<li><a href="Skills.html">Skills</a></li>
+<li><a href="QuestIcons.html">Quest Icons</a></li>
+<li class="nav-section"><span class="nav-label">Gathering</span><ul>
+<li><a href="Mining.html">Mining</a></li>
+<li><a href="Fishing.html">Fishing</a></li>
+<li><a href="Woodcutting.html">Woodcutting</a></li>
+<li><a href="Farming.html">Farming</a></li>
+<li><a href="Thieving.html">Thieving</a></li>
+</ul></li>
+<li class="nav-section"><span class="nav-label">Crafting</span><ul>
+<li><a href="Smithing.html">Smithing</a></li>
+<li><a href="Cooking.html">Cooking</a></li>
+<li><a href="Fletching.html">Fletching</a></li>
+<li><a href="Crafting.html">Crafting</a></li>
+<li><a href="Firemaking.html">Firemaking</a></li>
+<li><a href="Runecrafting.html">Runecrafting</a></li>
+<li><a href="Herblore.html">Herblore</a></li>
+<li><a href="Construction.html">Construction</a></li>
+</ul></li>
+<li class="nav-section"><span class="nav-label">Support</span><ul>
+<li><a href="Prayer.html">Prayer</a></li>
+<li><a href="Mercantile.html">Mercantile</a></li>
+<li><a href="Agility.html">Agility</a></li>
+</ul></li>
+<li class="nav-section"><span class="nav-label">Combat</span><ul>
+<li><a href="Slayer.html">Slayer</a></li>
+</ul></li>
+</ul></li>
+<li class="nav-section"><span class="nav-label">Inventory</span><ul>
+<li><a href="Equipment.html">Equipment</a></li>
+<li><a href="Heirlooms.html">Heirlooms</a></li>
+</ul></li>
+<li class="nav-section"><span class="nav-label">Combat</span><ul>
+<li><a href="Combat.html">Combat</a></li>
+<li><a href="Bosses.html">Bosses</a></li>
+<li><a href="Dungeons.html">Dungeons</a></li>
+<li><a href="Enemies.html">Enemies</a></li>
+<li><a href="Spells.html">Spells</a></li>
+<li><a href="Mercenaries.html">Mercenary Camp</a></li>
+</ul></li>
+<li class="nav-section"><span class="nav-label">Town</span><ul>
+<li><a href="Shop.html">Shop</a></li>
+<li><a href="Workers.html">Workers</a></li>
+<li><a href="Guilds.html">Guilds</a></li>
+<li><a href="Buildings.html">Buildings</a></li>
+<li><a href="Carnival.html">Carnival</a></li>
+<li><a href="Housing.html">Housing</a></li>
+</ul></li>
+<li class="nav-section"><span class="nav-label">Elder Isle</span><ul>
+<li><a href="ElderIsleOverview.html">Overview</a></li>
+<li><a href="ElderSkills.html">Elder Skills</a></li>
+<li><a href="SigilStones.html">Sigil Stones</a></li>
+<li><a href="ElderArmor.html">Elder Armor Set</a></li>
+<li><a href="ElderStory.html" class="active">Story & Lore</a></li>
+<li><a href="ElderDungeons.html">Isle Dungeons & Bosses</a></li>
+</ul></li>
+<li class="nav-section"><span class="nav-label">Miscellaneous</span><ul>
+<li><a href="Expeditions.html">Expeditions</a></li>
+<li><a href="Pets.html">Pets</a></li>
+<li><a href="Quests.html">Quests</a></li>
+<li><a href="Titles.html">Titles</a></li>
+<li><a href="SeasonalEvents.html">Seasonal Events</a></li>
+</ul></li>
+<li class="nav-section"><span class="nav-label">Guides</span><ul>
+<li><a href="how_to_make_guides.html">How to add strategy guides to the wiki</a></li>
+<li><a href="guide_the_infinite_tower.html">The Infinite Tower</a></li>
+</ul></li>
+</ul>
+    </nav>
+
+    <main class="content">
+      <h1 id="story-lore">Story &amp; Lore</h1>
+<p>The isle ships a <strong>12-quest main story chain</strong> and <strong>13 unlockable lore fragments</strong>. Both live on their own tabs; quests are on the isle Quests tab, fragments are in the Lore Master (from the isle Home tab).</p>
+<h2 id="how-the-chain-works">How the chain works</h2>
+<ul>
+<li><strong>Sequential.</strong> Quest N is locked until quest N-1 completes. You cannot skip ahead by finishing later objectives first.</li>
+<li><strong>Auto-completion.</strong> A quest completes the moment its predicate is met. There is no "claim" step; the reward and the next quest unlock immediately. Consuming the materials afterwards does not un-complete a quest.</li>
+<li><strong>Progress persists.</strong> Once a quest is stamped complete, mainland activity, save-slot switches, and even resetting your inventory of the quest's target material do nothing to it.</li>
+<li><strong>Rewards are narrative, not stat.</strong> The reward on each quest is a lore fragment, an act unlock, or (for the final quest) the Ancient Signet plus the Isle Champion title.</li>
+</ul>
+<h2 id="the-12-quests">The 12 quests</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Act</th>
+<th>Title</th>
+<th>Objective</th>
+<th>Target</th>
+<th>Reward</th>
+</tr>
+</thead>
+<tbody>
+<tr id="i_1">
+<td>I.1</td>
+<td>Act I: The Landing</td>
+<td>First Steps</td>
+<td>Clear Beach &amp; Cliffs 8 times.</td>
+<td>8 clears</td>
+<td>Prologue lore fragment</td>
+</tr>
+<tr id="i_2">
+<td>I.2</td>
+<td>Act I: The Landing</td>
+<td>Rowan's Cache</td>
+<td>Deliver 500 Mythrite Ore.</td>
+<td>500 ore</td>
+<td>I.a lore fragment</td>
+</tr>
+<tr id="i_3">
+<td>I.3</td>
+<td>Act I: The Landing</td>
+<td>Rations for the Voyage</td>
+<td>Cook 250 Tidepool Crab.</td>
+<td>250 cooked</td>
+<td>I.b + Act II unlock</td>
+</tr>
+<tr id="ii_1">
+<td>II.1</td>
+<td>Act II: The Buried Library</td>
+<td>Cutting the Vines</td>
+<td>Clear Ancient Forest 15 times.</td>
+<td>15 clears</td>
+<td>I.c + first Grand Ritual glimpse</td>
+</tr>
+<tr id="ii_2">
+<td>II.2</td>
+<td>Act II: The Buried Library</td>
+<td>Library Salvage</td>
+<td>Gather 800 Abyssal Ore.</td>
+<td>800 ore</td>
+<td>II.a + Rowan learns the Elders' script</td>
+</tr>
+<tr id="ii_3">
+<td>II.3</td>
+<td>Act II: The Buried Library</td>
+<td>Match the Elders</td>
+<td>Craft 4 Coastal armor pieces.</td>
+<td>4 pieces</td>
+<td>II.b + Act III unlock</td>
+</tr>
+<tr id="iii_1">
+<td>III.1</td>
+<td>Act III: The Sealing Site</td>
+<td>Volcano Ascent</td>
+<td>Clear Volcano Peak 20 times.</td>
+<td>20 clears</td>
+<td>II.c + seal location revealed</td>
+</tr>
+<tr id="iii_2">
+<td>III.2</td>
+<td>Act III: The Sealing Site</td>
+<td>Voidsteel Study</td>
+<td>Gather 1,200 Voidsteel Ore.</td>
+<td>1,200 ore</td>
+<td>III.a + seal weakening identified</td>
+</tr>
+<tr id="iii_3">
+<td>III.3</td>
+<td>Act III: The Sealing Site</td>
+<td>Grove Gear</td>
+<td>Craft 4 Grove armor pieces.</td>
+<td>4 pieces</td>
+<td>III.b + Act IV unlock</td>
+</tr>
+<tr id="iv_1">
+<td>IV.1</td>
+<td>Act IV: The Last Elder</td>
+<td>Descent</td>
+<td>Clear the Abyssal Depths 25 times.</td>
+<td>25 clears</td>
+<td>III.c + faint voice of the Last Elder</td>
+</tr>
+<tr id="iv_2">
+<td>IV.2</td>
+<td>Act IV: The Last Elder</td>
+<td>Assemble the Full Elder Set</td>
+<td>Craft all 8 Elder BIS armor pieces.</td>
+<td>8 pieces</td>
+<td>IV.a + the Ritual's true cost</td>
+</tr>
+<tr id="iv_3">
+<td>IV.3</td>
+<td>Act IV: The Last Elder</td>
+<td>Face the Last Elder</td>
+<td>Defeat the Last Elder in the Abyssal Depths.</td>
+<td>1 kill</td>
+<td>Ancient Signet, Isle Champion title, IV.b + IV.c</td>
+</tr>
+</tbody>
+</table>
+<p>Objectives that reference dungeon counts (Beach &amp; Cliffs, Ancient Forest, Volcano Peak, Abyssal Depths) accept any completed clear on that dungeon, from any slot, at any level. Objectives that reference an item count read your current shared inventory.</p>
+<h2 id="lore-fragments">Lore fragments</h2>
+<p>Fragments live in the <strong>Lore Master</strong> on the isle Home tab. They unlock as story quests complete; each act contributes one prologue-style fragment plus three per act, for 13 total. Fragments are pure prose (no rewards), meant to fill in the isle's backstory: what the Elders were, why the Ritual exists, and why Rowan wanted you along.</p>
+<ul>
+<li><strong>Prologue</strong>: Rowan's Note.</li>
+<li><strong>Act I</strong> (three fragments): the coastline's kept past, the memory in the rock, and the ancient fish.</li>
+<li><strong>Act II</strong> (three): the grove as a garden, the ritual against dying, and the order that made it.</li>
+<li><strong>Act III</strong> (three): the peak as their altar, the seal's alloy, and the one who refused to sit down.</li>
+<li><strong>Act IV</strong> (three): the flooding chamber, the ritual's true cost, and the epilogue of what you carry home.</li>
+</ul>
+<p>The full text is in-app; the wiki holds only titles.</p>
+<h2 id="isle-champion-title">Isle Champion title</h2>
+<p>Defeating the Last Elder the first time unlocks the <strong>Isle Champion</strong> title, listed alongside every other title in <a href="Titles.html#">Titles</a>. Ironman does not gate it.</p>
+<h2 id="related-pages">Related pages</h2>
+<ul>
+<li><a href="ElderIsleOverview.html#">Elder Isle Overview</a></li>
+<li><a href="ElderDungeons.html#">Isle Dungeons &amp; Bosses</a></li>
+<li><a href="ElderArmor.html#">Elder armor set</a></li>
+</ul>
+    </main>
+  </div>
+
+  <footer class="site-footer">
+    <span>All data is auto-generated from game files and stays up to date with the latest release.</span>
+    <span>·</span>
+    <a href="https://github.com/tristinbaker/IdleFantasy/issues" target="_blank" rel="noopener">Report an issue</a>
+    <span>·</span>
+    <a href="https://github.com/tristinbaker/IdleFantasy" target="_blank" rel="noopener">GitHub</a>
+  </footer>
+
+  <script src="assets/search-index.js"></script>
+  <script>
+    (function() {
+      // ---- Dark mode ----
+      var themeBtn = document.getElementById('theme-toggle');
+      function updateThemeIcon() {
+        themeBtn.textContent = document.documentElement.getAttribute('data-theme') === 'dark' ? '☀️' : '🌙';
+      }
+      updateThemeIcon();
+      themeBtn.addEventListener('click', function() {
+        var next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+        document.documentElement.setAttribute('data-theme', next);
+        localStorage.setItem('theme', next);
+        updateThemeIcon();
+      });
+
+      // ---- Hamburger nav ----
+      var navToggle = document.getElementById('nav-toggle');
+      var sidebar   = document.getElementById('sidebar');
+      var backdrop  = document.getElementById('nav-backdrop');
+      function openNav() {
+        sidebar.classList.add('open');
+        backdrop.classList.add('visible');
+        navToggle.setAttribute('aria-expanded', 'true');
+      }
+      function closeNav() {
+        sidebar.classList.remove('open');
+        backdrop.classList.remove('visible');
+        navToggle.setAttribute('aria-expanded', 'false');
+      }
+      navToggle.addEventListener('click', function() {
+        sidebar.classList.contains('open') ? closeNav() : openNav();
+      });
+      backdrop.addEventListener('click', closeNav);
+      sidebar.addEventListener('click', function(e) {
+        if (e.target.tagName === 'A') closeNav();
+      });
+
+      // ---- Search ----
+      var searchBox     = document.getElementById('search');
+      var searchInput   = document.getElementById('search-input');
+      var searchResults = document.getElementById('search-results');
+      var searchIndex   = window.WIKI_SEARCH_INDEX || [];
+      var MAX_RESULTS   = 10;
+      var selected      = -1;
+
+      function hideResults() {
+        searchResults.hidden = true;
+        searchResults.innerHTML = '';
+        selected = -1;
+      }
+
+      // Lower score = better match. -1 = no match.
+      function scoreEntry(entry, query) {
+        var name = entry.n.toLowerCase();
+        if (name === query) return 0;
+        if (name.lastIndexOf(query, 0) === 0) return 1;
+        if (name.indexOf(' ' + query) !== -1) return 2;
+        if (name.indexOf(query) !== -1) return 3;
+        return -1;
+      }
+
+      function updateSelection() {
+        var items = searchResults.children;
+        for (var i = 0; i < items.length; i++)
+          items[i].classList.toggle('selected', i === selected);
+        if (selected >= 0 && items[selected])
+          items[selected].scrollIntoView({ block: 'nearest' });
+      }
+
+      function runSearch() {
+        var query = searchInput.value.trim().toLowerCase();
+        if (query.length < 2) { hideResults(); return; }
+        var matches = [];
+        for (var i = 0; i < searchIndex.length; i++) {
+          var s = scoreEntry(searchIndex[i], query);
+          if (s >= 0) matches.push([s, searchIndex[i]]);
+        }
+        matches.sort(function(a, b) {
+          return (a[0] - b[0])                       // better score first
+              || ((b[1].t || 0) - (a[1].t || 0))     // pages before item rows
+              || (a[1].n.length - b[1].n.length)     // shorter names first
+              || a[1].n.localeCompare(b[1].n);
+        });
+        searchResults.innerHTML = '';
+        if (!matches.length) {
+          var empty = document.createElement('li');
+          empty.className = 'search-empty';
+          empty.textContent = 'No results';
+          searchResults.appendChild(empty);
+        }
+        for (var j = 0; j < matches.length && j < MAX_RESULTS; j++) {
+          var entry = matches[j][1];
+          var li = document.createElement('li');
+          var a  = document.createElement('a');
+          a.href = entry.u;
+          var name = document.createElement('span');
+          name.textContent = entry.n;
+          a.appendChild(name);
+          if (entry.p) {
+            var context = document.createElement('span');
+            context.className = 'search-context';
+            context.textContent = entry.p;
+            a.appendChild(context);
+          }
+          li.appendChild(a);
+          searchResults.appendChild(li);
+        }
+        selected = -1;
+        searchResults.hidden = false;
+      }
+
+      searchInput.addEventListener('input', runSearch);
+      searchInput.addEventListener('focus', function() {
+        if (searchInput.value.trim().length >= 2) runSearch();
+      });
+
+      searchInput.addEventListener('keydown', function(e) {
+        var links = searchResults.querySelectorAll('li > a');
+        if (e.key === 'ArrowDown' && links.length) {
+          e.preventDefault();
+          selected = (selected + 1) % links.length;
+          updateSelection();
+        } else if (e.key === 'ArrowUp' && links.length) {
+          e.preventDefault();
+          selected = (selected - 1 + links.length) % links.length;
+          updateSelection();
+        } else if (e.key === 'Enter' && links.length) {
+          e.preventDefault();
+          links[selected >= 0 ? selected : 0].click();
+        } else if (e.key === 'Escape') {
+          hideResults();
+          searchInput.blur();
+        }
+      });
+
+      // Navigating to a row on the current page: hash change alone won't rerun
+      // :target styling reliably in every browser, so just close the dropdown.
+      searchResults.addEventListener('click', function(e) {
+        if (e.target.closest('a')) hideResults();
+      });
+
+      document.addEventListener('click', function(e) {
+        if (!searchBox.contains(e.target)) hideResults();
+      });
+
+      // Press "/" anywhere to focus search
+      document.addEventListener('keydown', function(e) {
+        if (e.key === '/' && document.activeElement !== searchInput &&
+            !/^(INPUT|TEXTAREA|SELECT)$/.test(document.activeElement.tagName)) {
+          e.preventDefault();
+          searchInput.focus();
+          searchInput.select();
+        }
+      });
+    })();
+  </script>
+</body>
+</html>

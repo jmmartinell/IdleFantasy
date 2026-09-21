@@ -92,6 +92,14 @@
 <li><a href="Carnival.html">Carnival</a></li>
 <li><a href="Housing.html">Housing</a></li>
 </ul></li>
+<li class="nav-section"><span class="nav-label">Elder Isle</span><ul>
+<li><a href="ElderIsleOverview.html">Overview</a></li>
+<li><a href="ElderSkills.html">Elder Skills</a></li>
+<li><a href="SigilStones.html">Sigil Stones</a></li>
+<li><a href="ElderArmor.html">Elder Armor Set</a></li>
+<li><a href="ElderStory.html">Story & Lore</a></li>
+<li><a href="ElderDungeons.html">Isle Dungeons & Bosses</a></li>
+</ul></li>
 <li class="nav-section"><span class="nav-label">Miscellaneous</span><ul>
 <li><a href="Expeditions.html">Expeditions</a></li>
 <li><a href="Pets.html">Pets</a></li>
@@ -138,6 +146,11 @@
 <td>1</td>
 <td>40</td>
 </tr>
+<tr id="coastal_pine_log">
+<td>Coastal Pine Log</td>
+<td>1</td>
+<td>50</td>
+</tr>
 <tr id="oak_logs">
 <td>Oak Logs</td>
 <td>15</td>
@@ -147,6 +160,11 @@
 <td>Willow Logs</td>
 <td>30</td>
 <td>90</td>
+</tr>
+<tr id="grove_oak_log">
+<td>Grove Oak Log</td>
+<td>30</td>
+<td>130</td>
 </tr>
 <tr id="maple_logs">
 <td>Maple Logs</td>
@@ -158,10 +176,20 @@
 <td>60</td>
 <td>203</td>
 </tr>
+<tr id="abyssal_log">
+<td>Abyssal Log</td>
+<td>60</td>
+<td>240</td>
+</tr>
 <tr id="magic_logs">
 <td>Magic Logs</td>
 <td>75</td>
 <td>303</td>
+</tr>
+<tr id="starwood_log">
+<td>Starwood Log</td>
+<td>85</td>
+<td>380</td>
 </tr>
 <tr id="redwood_logs">
 <td>Redwood Logs</td>
@@ -274,7 +302,7 @@
 </tr>
 </tbody>
 </table>
-<p>The exact multiplier you get applied to your tool efficiency depends on the tier difference as calculated using the formula: <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>T</mi><mi>i</mi><mi>e</mi><mi>r</mi><mtext> </mtext><mi>d</mi><mi>i</mi><mi>f</mi><mi>f</mi><mi>e</mi><mi>r</mi><mi>e</mi><mi>n</mi><mi>c</mi><mi>e</mi><mo>=</mo><mi>t</mi><mi>o</mi><mi>o</mi><mi>l</mi><mtext> </mtext><mi>t</mi><mi>i</mi><mi>e</mi><mi>r</mi><mo>−</mo><mi>i</mi><mi>t</mi><mi>e</mi><mi>m</mi><mtext> </mtext><mi>t</mi><mi>i</mi><mi>e</mi><mi>r</mi></mrow><annotation encoding="application/x-tex">Tier\ difference = tool\ tier - item\ tier</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="vertical-align:-0.1944em;height:0.8889em;"></span><span class="mord mathnormal" style="margin-right:0.1389em;">T</span><span class="mord mathnormal">i</span><span class="mord mathnormal" style="margin-right:0.0278em;">er</span><span class="mspace"> </span><span class="mord mathnormal">d</span><span class="mord mathnormal">i</span><span class="mord mathnormal" style="margin-right:0.1076em;">ff</span><span class="mord mathnormal">ere</span><span class="mord mathnormal">n</span><span class="mord mathnormal">ce</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="vertical-align:-0.0833em;height:0.7778em;"></span><span class="mord mathnormal">t</span><span class="mord mathnormal">oo</span><span class="mord mathnormal" style="margin-right:0.0197em;">l</span><span class="mspace"> </span><span class="mord mathnormal">t</span><span class="mord mathnormal">i</span><span class="mord mathnormal" style="margin-right:0.0278em;">er</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6595em;"></span><span class="mord mathnormal">i</span><span class="mord mathnormal">t</span><span class="mord mathnormal">e</span><span class="mord mathnormal">m</span><span class="mspace"> </span><span class="mord mathnormal">t</span><span class="mord mathnormal">i</span><span class="mord mathnormal" style="margin-right:0.0278em;">er</span></span></span></span>. The tool efficiency is multiplied as per the table below (— indicates no mult applied)</p>
+<p>The exact multiplier you get applied to your tool efficiency depends on the tier difference as calculated using the formula: <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>T</mi><mi>i</mi><mi>e</mi><mi>r</mi><mtext> </mtext><mi>d</mi><mi>i</mi><mi>f</mi><mi>f</mi><mi>e</mi><mi>r</mi><mi>e</mi><mi>n</mi><mi>c</mi><mi>e</mi><mo>=</mo><mi>t</mi><mi>o</mi><mi>o</mi><mi>l</mi><mtext> </mtext><mi>t</mi><mi>i</mi><mi>e</mi><mi>r</mi><mo>−</mo><mi>i</mi><mi>t</mi><mi>e</mi><mi>m</mi><mtext> </mtext><mi>t</mi><mi>i</mi><mi>e</mi><mi>r</mi></mrow><annotation encoding="application/x-tex">Tier\ difference = tool\ tier - item\ tier</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.1389em;">T</span><span class="mord mathnormal">i</span><span class="mord mathnormal" style="margin-right:0.0278em;">er</span><span class="mspace"> </span><span class="mord mathnormal">d</span><span class="mord mathnormal">i</span><span class="mord mathnormal" style="margin-right:0.1076em;">ff</span><span class="mord mathnormal">ere</span><span class="mord mathnormal">n</span><span class="mord mathnormal">ce</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.7778em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">t</span><span class="mord mathnormal">oo</span><span class="mord mathnormal" style="margin-right:0.0197em;">l</span><span class="mspace"> </span><span class="mord mathnormal">t</span><span class="mord mathnormal">i</span><span class="mord mathnormal" style="margin-right:0.0278em;">er</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6595em;"></span><span class="mord mathnormal">i</span><span class="mord mathnormal">t</span><span class="mord mathnormal">e</span><span class="mord mathnormal">m</span><span class="mspace"> </span><span class="mord mathnormal">t</span><span class="mord mathnormal">i</span><span class="mord mathnormal" style="margin-right:0.0278em;">er</span></span></span></span>. The tool efficiency is multiplied as per the table below (— indicates no mult applied)</p>
 <table class="small">
         <thead>
             <tr>
