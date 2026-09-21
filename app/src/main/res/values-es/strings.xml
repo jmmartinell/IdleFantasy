@@ -863,7 +863,7 @@
         <item>Xander</item>
         <item>Yara</item>
     </string-array> <!-- untranslated -->
-    <string name="inn_title">Inn</string> <!-- untranslated -->
+    <string name="inn_title">Posada</string>
     <string name="inn_desc">Hire a worker to train skills for you, or buy food from the daily menu. Workers do not count toward your quests.</string> <!-- untranslated -->
     <string name="inn_worker_already_hired">A worker is already hired.</string> <!-- untranslated -->
     <string name="inn_not_enough_coins">Not enough coins.</string> <!-- untranslated -->
@@ -971,7 +971,7 @@
     <string name="worker_skills_title_nav">Worker Skills</string> <!-- untranslated -->
 
     <!-- Guild Hall -->
-    <string name="guild_hall_title">Guild Hall</string> <!-- untranslated -->
+    <string name="guild_hall_title">Sede del Gremio</string>
     <string name="guild_hall_desc">Únete a gremios y completa solicitudes diarias para subir de rango</string>
     <string name="guild_hall_intro">Guilds reward you for activities you already do. Complete quests and daily requests to earn cross-skill materials, coins, and XP, so specialists can still access resources from skills they don\'t train.</string> <!-- untranslated -->
     <string name="guild_level_label">Level %1$d</string> <!-- untranslated -->
@@ -1332,7 +1332,7 @@
     <string name="house_item_shield_kite">Kite Shield Display</string> <!-- untranslated -->
     <string name="house_item_swords_crossed">Crossed Swords</string> <!-- untranslated -->
     <string name="house_item_lamp">Wall Lantern</string> <!-- untranslated -->
-    <string name="slayer_title">Slayer Master</string> <!-- untranslated -->
+    <string name="slayer_title">Maestro de Slayer</string>
     <string name="slayer_card_desc">Tasks and rewards for slayers</string> <!-- untranslated -->
     <string name="slayer_desc">Complete tasks to earn Slayer XP and points. Spend points in the shop for exclusive gear.</string> <!-- untranslated -->
     <string name="slayer_level_label">Level %1$d</string> <!-- untranslated -->
