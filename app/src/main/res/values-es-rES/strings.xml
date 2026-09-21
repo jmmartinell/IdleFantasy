@@ -2154,7 +2154,7 @@
     <string name="seasonal_market_limit_left">%1$d left</string> <!-- untranslated -->
     <string name="seasonal_market_purchase_success">Purchase complete!</string> <!-- untranslated -->
     <string name="seasonal_donate">Donate</string> <!-- untranslated -->
-    <string name="seasonal_event_gloomharvest_2026_name">Gloomharvest</string> <!-- untranslated -->
+    <string name="seasonal_event_gloomharvest_2026_name">Cosecha Sombría</string>
     <string name="seasonal_event_gloomharvest_2026_banner">Participated in the Gloomharvest 2026</string> <!-- untranslated -->
     <string name="seasonal_minigame_lantern_lights_name">Lantern Lights</string> <!-- untranslated -->
     <string name="seasonal_minigame_sequence_hint">Watch the lanterns, then repeat the order. Reach round %1$d of %2$d to win a token!</string> <!-- untranslated -->
