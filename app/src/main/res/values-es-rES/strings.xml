@@ -1021,21 +1021,21 @@
     <string name="guild_quest_desc_slayer_kill">Defeat %1$d enemies while on a slayer task.</string> <!-- untranslated -->
 
     <!-- Mercantile skill -->
-    <string name="skill_mercantile">Mercantile</string> <!-- untranslated -->
+    <string name="skill_mercantile">Mercantil</string>
     <string name="label_support_skills">Apoyo</string>
-    <string name="mercantile_routes_label">Trade Routes</string> <!-- untranslated -->
-    <string name="mercantile_level_label">Level %1$d Mercantile</string> <!-- untranslated -->
-    <string name="mercantile_xp_label">XP: %1$s</string> <!-- untranslated -->
-    <string name="mercantile_coins_label">Coins: %1$s</string> <!-- untranslated -->
-    <string name="mercantile_perks_title">Perks</string> <!-- untranslated -->
-    <string name="mercantile_perk_trading_locked">Shop trading: cheaper buying and better sell prices from level %1$d.</string> <!-- untranslated -->
-    <string name="mercantile_perk_trading">Shop trading: buy prices -%1$d%%, sell prices +%2$d%%.</string> <!-- untranslated -->
-    <string name="mercantile_perk_trading_next">Next boost at level %1$d.</string> <!-- untranslated -->
-    <string name="mercantile_perk_guild">Merchant\'s Guild: exclusive shop goods unlock from level %1$d.</string> <!-- untranslated -->
-    <string name="mercantile_cost_label">Cost: %1$s</string> <!-- untranslated -->
-    <string name="mercantile_return_range">Returns: %1$s – %2$s</string> <!-- untranslated -->
-    <string name="mercantile_dispatch_label">Dispatch</string> <!-- untranslated -->
-    <string name="mercantile_queue_label">Add to Queue</string> <!-- untranslated -->
+    <string name="mercantile_routes_label">Rutas comerciales</string>
+    <string name="mercantile_level_label">Nivel %1$d de Mercantil</string>
+    <string name="mercantile_xp_label">XP: %1$s</string>
+    <string name="mercantile_coins_label">Monedas: %1$s</string>
+    <string name="mercantile_perks_title">Ventajas</string>
+    <string name="mercantile_perk_trading_locked">Comercio en tienda: compra más barata y mejores precios de venta desde el nivel %1$d.</string>
+    <string name="mercantile_perk_trading">Comercio en tienda: precios de compra -%1$d%%, precios de venta +%2$d%%.</string>
+    <string name="mercantile_perk_trading_next">Siguiente mejora en el nivel %1$d.</string>
+    <string name="mercantile_perk_guild">Gremio de Mercaderes: los artículos exclusivos de tienda se desbloquean desde el nivel %1$d.</string>
+    <string name="mercantile_cost_label">Costo: %1$s</string>
+    <string name="mercantile_return_range">Ganancias: %1$s – %2$s</string>
+    <string name="mercantile_dispatch_label">Despachar</string>
+    <string name="mercantile_queue_label">Añadir a la cola</string>
 
     <!-- Church -->
     <string name="church_title">Iglesia</string>
@@ -1388,7 +1388,7 @@
     <string name="prestige_confirm_message_xp">Your %1$s level will reset to 1, but you\'ll earn a permanent +%2$d%% XP bonus for this skill.</string> <!-- untranslated -->
     <string name="prestige_confirm_message_stat">Your %1$s level will reset to 1, but you\'ll earn a permanent +%2$d bonus to your stats.</string> <!-- untranslated -->
     <string name="prestige_confirm_message_agility">Tu nivel de %1$s se reiniciará a 1, pero ganarás un bono permanente de +%2$d%% de XP, y la duración de tus sesiones seguirá reduciéndose — a nivel 99 una sesión durará %3$d min en lugar de %4$d min.</string>
-    <string name="prestige_confirm_message_mercantile">Your %1$s level will reset to 1, but you\'ll earn a permanent +%2$d%% XP bonus, plus an extra +%2$d%% coin return from trade routes.</string> <!-- untranslated -->
+    <string name="prestige_confirm_message_mercantile">Tu nivel de %1$s se reiniciará a 1, pero ganarás un bono permanente de +%2$d%% de XP, además de un +%2$d%% adicional de devolución de monedas en las rutas comerciales.</string>
 
     <!-- Prestige achievements -->
     <string name="achievement_prestige_first_name">First Reset</string> <!-- untranslated -->
@@ -1925,9 +1925,9 @@
     <string name="quest_weekly_bonus_complete_coins">All weekly challenges complete! +%1$s coins</string> <!-- untranslated -->
     <string name="quest_weekly_bonus_complete_divine">All weekly challenges complete! You found divine gear!</string> <!-- untranslated -->
     <string name="guild_contributed_items">Contributed %1$d items.</string> <!-- untranslated -->
-    <string name="mercantile_not_enough_coins">Not enough coins (need %1$s coins).</string> <!-- untranslated -->
-    <string name="mercantile_route_start_failed">Failed to start route: %1$s</string> <!-- untranslated -->
-    <string name="mercantile_added_to_queue">Added to queue: Mercantile — %1$s.</string> <!-- untranslated -->
+    <string name="mercantile_not_enough_coins">Monedas insuficientes (se necesitan %1$s monedas).</string>
+    <string name="mercantile_route_start_failed">No se pudo iniciar la ruta: %1$s</string>
+    <string name="mercantile_added_to_queue">Añadido a la cola: Mercantil — %1$s.</string>
     <string name="inventory_requires_to_equip">Requires %1$s to equip.</string> <!-- untranslated -->
     <string name="home_found_pet">You found a pet: %1$s!</string> <!-- untranslated -->
     <string name="pet_found_title">New Pet!</string> <!-- untranslated -->
@@ -2262,8 +2262,8 @@
     <string name="title_marksman_requirement">Reach max level in the Archers Guild</string> <!-- untranslated -->
     <string name="title_archmage_name">Archmage</string> <!-- untranslated -->
     <string name="title_archmage_requirement">Reach max level in the Mages Guild</string> <!-- untranslated -->
-    <string name="title_merchant_prince_name">Merchant Prince</string> <!-- untranslated -->
-    <string name="title_merchant_prince_requirement">Reach max level in the Mercantile Guild</string> <!-- untranslated -->
+    <string name="title_merchant_prince_name">Príncipe Mercader</string>
+    <string name="title_merchant_prince_requirement">Alcanza el nivel máximo del Gremio Mercantil</string>
     <string name="title_pathfinder_name">Pathfinder</string> <!-- untranslated -->
     <string name="title_pathfinder_requirement">Reach max level in the Agility Guild</string> <!-- untranslated -->
     <string name="title_master_farmer_name">Master Farmer</string> <!-- untranslated -->
@@ -2513,7 +2513,7 @@
     <string name="prestige_path_magic_runethrift">Rune Thrift</string> <!-- untranslated -->
     <string name="prestige_path_construction_efficient">Efficient Builder</string> <!-- untranslated -->
     <string name="prestige_path_prayer_devotion">Devotion</string> <!-- untranslated -->
-    <string name="prestige_path_mercantile_trade">Trade Baron</string> <!-- untranslated -->
+    <string name="prestige_path_mercantile_trade">Barón del Comercio</string>
     <string name="prestige_path_slayer_bounty">Bounty Hunter</string> <!-- untranslated -->
     <string name="prestige_path_ranged_quiver">Quiver Care</string> <!-- untranslated -->
     <string name="prestige_path_defense_laststand">Last Stand</string> <!-- untranslated -->
@@ -2543,7 +2543,7 @@
     <string name="prestige_path_magic_prowess">Attunement</string> <!-- untranslated -->
     <string name="prestige_path_hitpoints_prowess">Vitality</string> <!-- untranslated -->
     <string name="prestige_path_thieving_coin">Silver Tongue</string> <!-- untranslated -->
-    <string name="prestige_path_mercantile_coin">Haggler</string> <!-- untranslated -->
+    <string name="prestige_path_mercantile_coin">Regateador</string>
 
     <!-- Prestige race branch names -->
     <string name="prestige_path_race_human">Resourceful</string> <!-- untranslated -->

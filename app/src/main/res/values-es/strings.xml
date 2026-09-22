@@ -1021,21 +1021,21 @@
     <string name="guild_quest_desc_slayer_kill">Derrota %1$d enemigos durante una tarea de Slayer.</string>
 
     <!-- Mercantile skill -->
-    <string name="skill_mercantile">Mercantile</string> <!-- untranslated -->
+    <string name="skill_mercantile">Mercantil</string>
     <string name="label_support_skills">Apoyo</string>
-    <string name="mercantile_routes_label">Trade Routes</string> <!-- untranslated -->
-    <string name="mercantile_level_label">Level %1$d Mercantile</string> <!-- untranslated -->
-    <string name="mercantile_xp_label">XP: %1$s</string> <!-- untranslated -->
-    <string name="mercantile_coins_label">Coins: %1$s</string> <!-- untranslated -->
-    <string name="mercantile_perks_title">Perks</string> <!-- untranslated -->
-    <string name="mercantile_perk_trading_locked">Shop trading: cheaper buying and better sell prices from level %1$d.</string> <!-- untranslated -->
-    <string name="mercantile_perk_trading">Shop trading: buy prices -%1$d%%, sell prices +%2$d%%.</string> <!-- untranslated -->
-    <string name="mercantile_perk_trading_next">Next boost at level %1$d.</string> <!-- untranslated -->
-    <string name="mercantile_perk_guild">Merchant\'s Guild: exclusive shop goods unlock from level %1$d.</string> <!-- untranslated -->
-    <string name="mercantile_cost_label">Cost: %1$s</string> <!-- untranslated -->
-    <string name="mercantile_return_range">Returns: %1$s – %2$s</string> <!-- untranslated -->
-    <string name="mercantile_dispatch_label">Dispatch</string> <!-- untranslated -->
-    <string name="mercantile_queue_label">Add to Queue</string> <!-- untranslated -->
+    <string name="mercantile_routes_label">Rutas comerciales</string>
+    <string name="mercantile_level_label">Nivel %1$d de Mercantil</string>
+    <string name="mercantile_xp_label">XP: %1$s</string>
+    <string name="mercantile_coins_label">Monedas: %1$s</string>
+    <string name="mercantile_perks_title">Ventajas</string>
+    <string name="mercantile_perk_trading_locked">Comercio en tienda: compra más barata y mejores precios de venta desde el nivel %1$d.</string>
+    <string name="mercantile_perk_trading">Comercio en tienda: precios de compra -%1$d%%, precios de venta +%2$d%%.</string>
+    <string name="mercantile_perk_trading_next">Siguiente mejora en el nivel %1$d.</string>
+    <string name="mercantile_perk_guild">Gremio de Mercaderes: los artículos exclusivos de tienda se desbloquean desde el nivel %1$d.</string>
+    <string name="mercantile_cost_label">Costo: %1$s</string>
+    <string name="mercantile_return_range">Ganancias: %1$s – %2$s</string>
+    <string name="mercantile_dispatch_label">Despachar</string>
+    <string name="mercantile_queue_label">Añadir a la cola</string>
 
     <!-- Church -->
     <string name="church_title">Iglesia</string>
@@ -2513,7 +2513,7 @@
     <string name="prestige_path_magic_runethrift">Rune Thrift</string> <!-- untranslated -->
     <string name="prestige_path_construction_efficient">Efficient Builder</string> <!-- untranslated -->
     <string name="prestige_path_prayer_devotion">Devoción</string>
-    <string name="prestige_path_mercantile_trade">Trade Baron</string> <!-- untranslated -->
+    <string name="prestige_path_mercantile_trade">Barón del Comercio</string>
     <string name="prestige_path_slayer_bounty">Bounty Hunter</string> <!-- untranslated -->
     <string name="prestige_path_ranged_quiver">Quiver Care</string> <!-- untranslated -->
     <string name="prestige_path_defense_laststand">Last Stand</string> <!-- untranslated -->
@@ -2543,7 +2543,7 @@
     <string name="prestige_path_magic_prowess">Attunement</string> <!-- untranslated -->
     <string name="prestige_path_hitpoints_prowess">Vitalidad</string>
     <string name="prestige_path_thieving_coin">Silver Tongue</string> <!-- untranslated -->
-    <string name="prestige_path_mercantile_coin">Haggler</string> <!-- untranslated -->
+    <string name="prestige_path_mercantile_coin">Regateador</string>
 
     <!-- Prestige race branch names -->
     <string name="prestige_path_race_human">Resourceful</string> <!-- untranslated -->

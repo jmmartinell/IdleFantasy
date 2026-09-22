@@ -888,7 +888,7 @@
     <string name="item_elven_shortbow_name">Elven Shortbow</string> <!-- untranslated -->
     <string name="item_elven_longbow_name">Elven Longbow</string> <!-- untranslated -->
     <string name="item_maple_shortbow_name">Maple Shortbow</string> <!-- untranslated -->
-    <string name="item_mercantile_guild_cape_name">Mercantile Guild Cape</string> <!-- untranslated -->
+    <string name="item_mercantile_guild_cape_name">Capa del Gremio Mercantil</string>
     <string name="item_mining_cape_name">Capa de Minería</string>
     <string name="item_mining_guild_cape_name">Capa del Gremio de Minería</string>
     <string name="item_mithril_arrow_tip_name">Mithril Arrow Tips</string> <!-- untranslated -->
@@ -1138,9 +1138,9 @@
     <string name="item_construction_cape_desc" formatted="false">Awarded for reaching level 99 Construction. Grants 10% more items per session.</string> <!-- untranslated -->
     <string name="item_prayer_cape_desc" formatted="false">Awarded for reaching level 99 Prayer. Strengthens your active blessing by 10%.</string> <!-- untranslated -->
     <string name="item_prayer_guild_cape_desc" formatted="false">Awarded for reaching Prayer Guild level 10. Strengthens your active blessing by 5%.</string> <!-- untranslated -->
-    <string name="item_mercantile_cape_name">Mercantile Cape</string> <!-- untranslated -->
-    <string name="item_mercantile_cape_desc" formatted="false">Awarded for reaching level 99 Mercantile. Grants 10% better shop prices and trade returns.</string> <!-- untranslated -->
-    <string name="item_mercantile_guild_cape_desc" formatted="false">Awarded for reaching Merchants Guild level 10. Grants 5% better shop prices and trade returns.</string> <!-- untranslated -->
+    <string name="item_mercantile_cape_name">Capa de Mercantil</string>
+    <string name="item_mercantile_cape_desc" formatted="false">Se otorga al alcanzar el nivel 99 de Mercantil. Otorga un 10% de mejora en los precios de tienda y en los retornos de comercio.</string>
+    <string name="item_mercantile_guild_cape_desc" formatted="false">Se otorga al alcanzar el nivel 10 del Gremio de Mercaderes. Otorga un 5% de mejora en los precios de tienda y en los retornos de comercio.</string>
     <string name="item_agility_cape_desc" formatted="false">Se otorga al alcanzar el nivel 99 de Agilidad. Otorga un 10% más de XP por sesión.</string>
     <string name="item_agility_guild_cape_desc" formatted="false">Se otorga al alcanzar el nivel 10 del Gremio de Agilidad. Otorga un 5% más de XP por sesión.</string>
     <string name="item_slayer_cape_name">Slayer Cape</string> <!-- untranslated -->

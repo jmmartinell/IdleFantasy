@@ -116,5 +116,5 @@
     <string name="skill_expedition_name">Expedición</string>
     <string name="skill_boss_name">Jefe</string>
     <string name="skill_mercantile_name">Mercantil</string>
-    <string name="skill_mercantile_desc">Envía caravanas comerciales por las rutas para conseguir monedas y XP. Los niveles altos mejoran los precios de compra y venta de la tienda y desbloquean productos exclusivos del Gremio de Mercaderes.</string>
+    <string name="skill_mercantile_desc">Despacha caravanas comerciales por las rutas para ganar monedas y XP. Los niveles más altos mejoran los precios de compra y venta de la tienda y desbloquean artículos exclusivos del Gremio de Mercaderes.</string>
 </resources>
