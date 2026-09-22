@@ -411,7 +411,7 @@
     <string name="settings_theme_desc">Elige tu combinación de colores preferida</string>
     <string name="settings_theme_dark">Oscuro</string>
     <string name="settings_theme_midnight">Medianoche</string>
-    <string name="settings_theme_light">Brillo</string>
+    <string name="settings_theme_light">Claro</string>
     <string name="settings_theme_system">Sistema</string>
     <string name="settings_font_size">Tamaño de fuente</string>
     <string name="settings_font_tiny">Diminuto</string>

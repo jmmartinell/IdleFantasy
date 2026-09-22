@@ -409,10 +409,10 @@
     <string name="settings_appearance">Apariencia</string>
     <string name="settings_theme">Tema</string>
     <string name="settings_theme_desc">Elige tu combinación de colores preferida</string>
-    <string name="settings_theme_dark">Dark</string> <!-- untranslated -->
-    <string name="settings_theme_midnight">Midnight</string> <!-- untranslated -->
-    <string name="settings_theme_light">Light</string> <!-- untranslated -->
-    <string name="settings_theme_system">System</string> <!-- untranslated -->
+    <string name="settings_theme_dark">Oscuro</string>
+    <string name="settings_theme_midnight">Medianoche</string>
+    <string name="settings_theme_light">Claro</string>
+    <string name="settings_theme_system">Sistema</string>
     <string name="settings_font_size">Tamaño de fuente</string>
     <string name="settings_font_tiny">Diminuto</string>
     <string name="settings_font_small">Pequeño</string>
