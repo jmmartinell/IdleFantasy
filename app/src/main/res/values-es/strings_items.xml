@@ -631,12 +631,12 @@
     <string name="item_runite_lockpick_name">Ganzúa de Runite</string>
 
     <!-- ===== Smithing hammers ===== -->
-    <string name="item_bronze_hammer_name">Bronze Hammer</string> <!-- untranslated -->
-    <string name="item_iron_hammer_name">Iron Hammer</string> <!-- untranslated -->
-    <string name="item_steel_hammer_name">Steel Hammer</string> <!-- untranslated -->
-    <string name="item_mithril_hammer_name">Mithril Hammer</string> <!-- untranslated -->
-    <string name="item_adamantite_hammer_name">Adamantite Hammer</string> <!-- untranslated -->
-    <string name="item_runite_hammer_name">Runite Hammer</string> <!-- untranslated -->
+    <string name="item_bronze_hammer_name">Martillo de bronce</string>
+    <string name="item_iron_hammer_name">Martillo de hierro</string>
+    <string name="item_steel_hammer_name">Martillo de acero</string>
+    <string name="item_mithril_hammer_name">Martillo de mithril</string>
+    <string name="item_adamantite_hammer_name">Martillo de adamantita</string>
+    <string name="item_runite_hammer_name">Martillo de runite</string>
 
     <!-- ===== Cooking frying pans ===== -->
     <string name="item_bronze_frying_pan_name">Bronze Frying Pan</string> <!-- untranslated -->
@@ -946,8 +946,8 @@
     <string name="item_silver_ruby_necklace_name">Silver Ruby Necklace</string> <!-- untranslated -->
     <string name="item_silver_ruby_ring_name">Silver Ruby Ring</string> <!-- untranslated -->
     <string name="item_slayer_guild_cape_name">Slayer Guild Cape</string> <!-- untranslated -->
-    <string name="item_smithing_cape_name">Smithing Cape</string> <!-- untranslated -->
-    <string name="item_smithing_guild_cape_name">Smithing Guild Cape</string> <!-- untranslated -->
+    <string name="item_smithing_cape_name">Capa de Herrería</string>
+    <string name="item_smithing_guild_cape_name">Capa del Gremio de Herreros</string>
     <string name="item_steel_arrow_tip_name">Steel Arrow Tips</string> <!-- untranslated -->
     <string name="item_steel_boots_name">Steel Boots</string> <!-- untranslated -->
     <string name="item_steel_chainbody_name">Steel Chainbody</string> <!-- untranslated -->
@@ -1119,8 +1119,8 @@
     <string name="item_thieving_cape_name">Thieving Cape</string> <!-- untranslated -->
     <string name="item_thieving_cape_desc" formatted="false">Awarded for reaching level 99 Thieving. Grants 10% more successful pickpockets per session.</string> <!-- untranslated -->
     <string name="item_thieving_guild_cape_desc" formatted="false">Awarded for reaching Thieves Guild level 10. Grants 5% more successful pickpockets per session.</string> <!-- untranslated -->
-    <string name="item_smithing_cape_desc" formatted="false">Awarded for reaching level 99 Smithing. Grants 10% more items per session.</string> <!-- untranslated -->
-    <string name="item_smithing_guild_cape_desc" formatted="false">Awarded for reaching Smithing Guild level 10. Grants 5% more items per session.</string> <!-- untranslated -->
+    <string name="item_smithing_cape_desc" formatted="false">Otorgada por alcanzar el nivel 99 en Herrería. Otorga un 10% más de objetos por sesión.</string>
+    <string name="item_smithing_guild_cape_desc" formatted="false">Otorgada por alcanzar el nivel 10 en el Gremio de Herreros. Otorga un 5% más de objetos por sesión.</string>
     <string name="item_cooking_cape_desc" formatted="false">Awarded for reaching level 99 Cooking. Grants 10% more food per session.</string> <!-- untranslated -->
     <string name="item_cooking_guild_cape_desc" formatted="false">Awarded for reaching Cooking Guild level 10. Grants 5% more food per session.</string> <!-- untranslated -->
     <string name="item_fletching_cape_desc" formatted="false">Awarded for reaching level 99 Fletching. Grants 10% more arrows per session.</string> <!-- untranslated -->
@@ -1172,14 +1172,14 @@
     <string name="item_runite_hoe_desc">A runite hoe. The finest farming tool available.</string> <!-- untranslated -->
     <string name="item_dwarven_hoe_desc">A legendary dwarven hoe. Doubles the harvest of any crop.</string> <!-- untranslated -->
     <string name="item_divine_hoe_desc">A hoe blessed by divine light. Crops flourish at its touch.</string> <!-- untranslated -->
-    <string name="item_bronze_hammer_desc">A bronze hammer for smithing.</string> <!-- untranslated -->
-    <string name="item_iron_hammer_desc">An iron hammer for smithing.</string> <!-- untranslated -->
-    <string name="item_steel_hammer_desc">A steel hammer for smithing.</string> <!-- untranslated -->
-    <string name="item_mithril_hammer_desc">A mithril hammer for smithing.</string> <!-- untranslated -->
-    <string name="item_adamantite_hammer_desc">An adamantite hammer for smithing.</string> <!-- untranslated -->
-    <string name="item_runite_hammer_desc">A runite hammer for smithing.</string> <!-- untranslated -->
-    <string name="item_dwarven_hammer_desc">A dwarven-forged hammer. Strikes true every time.</string> <!-- untranslated -->
-    <string name="item_divine_hammer_desc">A hammer touched by divine light. Metal bends to its will.</string> <!-- untranslated -->
+    <string name="item_bronze_hammer_desc">Un martillo de bronce para herrería.</string>
+    <string name="item_iron_hammer_desc">Un martillo de hierro para herrería.</string>
+    <string name="item_steel_hammer_desc">Un martillo de acero para herrería.</string>
+    <string name="item_mithril_hammer_desc">Un martillo de mithril para herrería.</string>
+    <string name="item_adamantite_hammer_desc">Un martillo de adamantita para herrería.</string>
+    <string name="item_runite_hammer_desc">Un martillo de runite para herrería.</string>
+    <string name="item_dwarven_hammer_desc">Un martillo forjado por enanos. Siempre acierta.</string>
+    <string name="item_divine_hammer_desc">Un martillo tocado por luz divina. El metal obedece su voluntad.</string>
     <string name="item_bronze_tinderbox_desc">A bronze tinderbox for firemaking.</string> <!-- untranslated -->
     <string name="item_iron_tinderbox_desc">An iron tinderbox for firemaking.</string> <!-- untranslated -->
     <string name="item_steel_tinderbox_desc">A steel tinderbox for firemaking.</string> <!-- untranslated -->

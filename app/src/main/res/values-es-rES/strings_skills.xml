@@ -18,7 +18,7 @@
 
     <!-- Crafting skills -->
     <string name="skill_smithing_name">Herrería</string>
-    <string name="skill_smithing_desc">Funde minerales en barras y forja equipo metálico poderoso.</string>
+    <string name="skill_smithing_desc">Forja minerales en barras y forja equipo metálico poderoso.</string>
     <string name="skill_cooking_name">Cocina</string>
     <string name="skill_cooking_desc">Cocina ingredientes crudos para crear comida que restaura HP en combate.</string>
     <string name="skill_fletching_name">Arquería</string>

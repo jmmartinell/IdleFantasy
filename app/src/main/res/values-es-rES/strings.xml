@@ -658,7 +658,7 @@
     <string name="profile_stat_wc">WC</string> <!-- untranslated -->
     <string name="profile_stat_fishing">Pesca</string>
     <string name="profile_stat_farming">Agricultura</string>
-    <string name="profile_stat_smithing">Smithing</string> <!-- untranslated -->
+    <string name="profile_stat_smithing">Herrería</string>
     <string name="profile_stat_firemaking">Firemaking</string> <!-- untranslated -->
     <string name="profile_stat_agility">Agilidad</string>
     <string name="profile_stat_cooking">Cooking</string> <!-- untranslated -->
@@ -1635,10 +1635,10 @@
     <string name="item_abyssal_ore_name">Mineral Abisal</string>
     <string name="item_voidsteel_ore_name">Mineral de voidsteel</string>
     <string name="item_starforged_ore_name">Mineral Estelar</string>
-    <string name="item_mythrite_bar_name">Mythrite Bar</string> <!-- untranslated -->
-    <string name="item_abyssal_bar_name">Abyssal Bar</string> <!-- untranslated -->
-    <string name="item_voidsteel_bar_name">Voidsteel Bar</string> <!-- untranslated -->
-    <string name="item_starforged_bar_name">Starforged Bar</string> <!-- untranslated -->
+    <string name="item_mythrite_bar_name">Barra de Mythrite</string>
+    <string name="item_abyssal_bar_name">Barra Abisal</string>
+    <string name="item_voidsteel_bar_name">Barra de Voidsteel</string>
+    <string name="item_starforged_bar_name">Barra Estelar</string>
     <string name="item_coastal_pine_log_name">Tronco de Pino Costero</string>
     <string name="item_grove_oak_log_name">Tronco de Roble del Bosque</string>
     <string name="item_abyssal_log_name">Tronco Abisal</string>
@@ -1663,26 +1663,26 @@
     <string name="item_starwood_tree_name">Árbol Estelar</string>
 
     <!-- Elder Isle: crafted armor pieces (tier progression Coastal → Grove → Volcanic → Elder) -->
-    <string name="item_coastal_helm_name">Coastal Helm</string> <!-- untranslated -->
-    <string name="item_coastal_platebody_name">Coastal Platebody</string> <!-- untranslated -->
-    <string name="item_coastal_platelegs_name">Coastal Platelegs</string> <!-- untranslated -->
-    <string name="item_coastal_boots_name">Coastal Boots</string> <!-- untranslated -->
-    <string name="item_grove_helm_name">Grove Helm</string> <!-- untranslated -->
-    <string name="item_grove_platebody_name">Grove Platebody</string> <!-- untranslated -->
-    <string name="item_grove_platelegs_name">Grove Platelegs</string> <!-- untranslated -->
-    <string name="item_grove_boots_name">Grove Boots</string> <!-- untranslated -->
-    <string name="item_volcanic_helm_name">Volcanic Helm</string> <!-- untranslated -->
-    <string name="item_volcanic_platebody_name">Volcanic Platebody</string> <!-- untranslated -->
-    <string name="item_volcanic_platelegs_name">Volcanic Platelegs</string> <!-- untranslated -->
-    <string name="item_volcanic_boots_name">Volcanic Boots</string> <!-- untranslated -->
-    <string name="item_elder_helm_name">Elder Helm</string> <!-- untranslated -->
-    <string name="item_elder_platebody_name">Elder Platebody</string> <!-- untranslated -->
-    <string name="item_elder_platelegs_name">Elder Platelegs</string> <!-- untranslated -->
-    <string name="item_elder_boots_name">Elder Boots</string> <!-- untranslated -->
-    <string name="item_elder_cape_name">Elder Cape</string> <!-- untranslated -->
-    <string name="item_elder_shield_name">Elder Shield</string> <!-- untranslated -->
-    <string name="item_elder_signet_ring_name">Elder Signet Ring</string> <!-- untranslated -->
-    <string name="item_elder_amulet_name">Elder Amulet</string> <!-- untranslated -->
+    <string name="item_coastal_helm_name">Yelmo Costero</string>
+    <string name="item_coastal_platebody_name">Armadura Costera</string>
+    <string name="item_coastal_platelegs_name">Grebas Costeras</string>
+    <string name="item_coastal_boots_name">Botas Costeras</string>
+    <string name="item_grove_helm_name">Yelmo del Bosque</string>
+    <string name="item_grove_platebody_name">Armadura del Bosque</string>
+    <string name="item_grove_platelegs_name">Grebas del Bosque</string>
+    <string name="item_grove_boots_name">Botas del Bosque</string>
+    <string name="item_volcanic_helm_name">Yelmo Volcánico</string>
+    <string name="item_volcanic_platebody_name">Armadura Volcánica</string>
+    <string name="item_volcanic_platelegs_name">Grebas Volcánicas</string>
+    <string name="item_volcanic_boots_name">Botas Volcánicas</string>
+    <string name="item_elder_helm_name">Yelmo del Anciano</string>
+    <string name="item_elder_platebody_name">Armadura del Anciano</string>
+    <string name="item_elder_platelegs_name">Grebas del Anciano</string>
+    <string name="item_elder_boots_name">Botas del Anciano</string>
+    <string name="item_elder_cape_name">Capa del Anciano</string>
+    <string name="item_elder_shield_name">Escudo del Anciano</string>
+    <string name="item_elder_signet_ring_name">Sello del Anciano</string>
+    <string name="item_elder_amulet_name">Amuleto del Anciano</string>
     <string name="item_ancient_signet_name">Ancient Signet</string> <!-- untranslated -->
 
     <!-- Elder Isle: sigil stones (four wired, two shipped-but-cosmetic) -->
@@ -1860,7 +1860,7 @@
     <string name="armory_stat_woodcutting">Eficiencia leña</string>
     <string name="armory_stat_fishing">Fishing Efficiency</string> <!-- untranslated -->
     <string name="armory_stat_farming">Farming Efficiency</string> <!-- untranslated -->
-    <string name="armory_stat_smithing">Smithing Efficiency</string> <!-- untranslated -->
+    <string name="armory_stat_smithing">Eficiencia herrería</string>
     <string name="armory_stat_firemaking">Firemaking Efficiency</string> <!-- untranslated -->
     <string name="armory_stat_agility">Eficiencia agilidad</string>
     <string name="armory_stat_cooking">Cooking Efficiency</string> <!-- untranslated -->
@@ -1877,7 +1877,7 @@
     <string name="armory_stat_cape_yield">Yield Bonus</string> <!-- untranslated -->
     <string name="armory_stat_cape_boost">Boost Bonus</string> <!-- untranslated -->
     <string name="armory_source_carnival">Carnival Prize Shop</string> <!-- untranslated -->
-    <string name="armory_source_smithing">Smithing</string> <!-- untranslated -->
+    <string name="armory_source_smithing">Herrería</string>
     <string name="armory_source_crafting">Crafting</string> <!-- untranslated -->
     <string name="armory_source_fletching">Fletching</string> <!-- untranslated -->
     <string name="armory_source_prestige_locked">%1$s (requires prestige perk %2$s, %3$s only)</string> <!-- untranslated -->
@@ -2193,8 +2193,8 @@
     <string name="seasonal_bounty_gloom_shortbows_hint">Fletching</string> <!-- untranslated -->
     <string name="seasonal_bounty_gloom_feast_name">Cook swordfish for the harvest feast</string> <!-- untranslated -->
     <string name="seasonal_bounty_gloom_feast_hint">Cooking</string> <!-- untranslated -->
-    <string name="seasonal_bounty_gloom_bars_name">Smelt adamantite for grave-iron</string> <!-- untranslated -->
-    <string name="seasonal_bounty_gloom_bars_hint">Smithing</string> <!-- untranslated -->
+    <string name="seasonal_bounty_gloom_bars_name">Funde adamantita para el hierro fúnebre</string>
+    <string name="seasonal_bounty_gloom_bars_hint">Herrería</string>
     <string name="seasonal_bounty_gloom_runes_name">Craft Death Runes to quiet the spirits</string> <!-- untranslated -->
     <string name="seasonal_bounty_gloom_runes_hint">Runecrafting</string> <!-- untranslated -->
     <string name="seasonal_bounty_gloom_wisps_name">Snuff out Will-o\'-Wisps</string> <!-- untranslated -->
@@ -2226,8 +2226,8 @@
     <string name="character_title_label">Title</string> <!-- untranslated -->
     <string name="character_title_none">No Title</string> <!-- untranslated -->
     <string name="character_name_with_title">%1$s the %2$s</string> <!-- untranslated -->
-    <string name="title_master_smith_name">Master Smith</string> <!-- untranslated -->
-    <string name="title_master_smith_requirement">Complete all Smithing quests</string> <!-- untranslated -->
+    <string name="title_master_smith_name">Maestro Herrero</string>
+    <string name="title_master_smith_requirement">Completa todas las misiones de Herrería</string>
     <string name="title_head_chef_name">Head Chef</string> <!-- untranslated -->
     <string name="title_head_chef_requirement">Complete all Cooking quests</string> <!-- untranslated -->
     <string name="title_master_miner_name">Maestro Minero</string>
@@ -2506,7 +2506,7 @@
     <string name="prestige_path_fishing_rod">Sturdy Rod</string> <!-- untranslated -->
     <string name="prestige_path_woodcutting_axe">Filo Afilado</string>
     <string name="prestige_path_cooking_hearty">Hearty Meals</string> <!-- untranslated -->
-    <string name="prestige_path_smithing_thrift">Careful Smith</string> <!-- untranslated -->
+    <string name="prestige_path_smithing_thrift">Herrero Cuidadoso</string>
     <string name="prestige_path_crafting_thrift">Steady Hands</string> <!-- untranslated -->
     <string name="prestige_path_herblore_potency">Potent Potions</string> <!-- untranslated -->
     <string name="prestige_path_runecrafting_runethrift">Essence Bond</string> <!-- untranslated -->
@@ -2586,8 +2586,8 @@
     <string name="item_heirloom_fishing_rod_desc">An old rod that has landed catches beyond counting. It learns the water with every cast.</string> <!-- untranslated -->
     <string name="item_heirloom_hoe_name">Heirloom Hoe</string> <!-- untranslated -->
     <string name="item_heirloom_hoe_desc">A humble hoe that has turned soil for generations. Each harvest leaves it keener than before.</string> <!-- untranslated -->
-    <string name="item_heirloom_hammer_name">Heirloom Hammer</string> <!-- untranslated -->
-    <string name="item_heirloom_hammer_desc">A smith\'s hammer black with the soot of a thousand forges. It grows truer with every strike.</string> <!-- untranslated -->
+    <string name="item_heirloom_hammer_name">Martillo Heredado</string>
+    <string name="item_heirloom_hammer_desc">Un martillo de herrero negro por el hollín de mil forjas. Cada golpe lo hace más certero.</string>
     <string name="item_heirloom_tinderbox_name">Heirloom Tinderbox</string> <!-- untranslated -->
     <string name="item_heirloom_tinderbox_desc">A battered tinderbox that has never failed to spark. Every fire it lights burns a little brighter.</string> <!-- untranslated -->
     <string name="item_heirloom_grappling_hook_name">Heirloom Grappling Hook</string> <!-- untranslated -->
@@ -2600,8 +2600,8 @@
     <string name="item_midas_band_desc">A sliver of the Vault Guardian\'s living gold. It drinks in a little of every battle its wearer survives.</string> <!-- untranslated -->
     <string name="item_heirloom_blade_name">Heirloom Blade</string> <!-- untranslated -->
     <string name="item_heirloom_blade_desc">An ancestral blade that wakes a little more with every battle its line survives.</string> <!-- untranslated -->
-    <string name="item_heirloom_greathammer_name">Heirloom Greathammer</string> <!-- untranslated -->
-    <string name="item_heirloom_greathammer_desc">A colossal warhammer of forgotten make. Each blow it lands adds to its legend.</string> <!-- untranslated -->
+    <string name="item_heirloom_greathammer_name">Gran Martillo Heredado</string>
+    <string name="item_heirloom_greathammer_desc">Un colosal martillo de guerra de forja olvidada. Cada golpe que asesta suma a su leyenda.</string>
     <string name="item_heirloom_longbow_name">Heirloom Longbow</string> <!-- untranslated -->
     <string name="item_heirloom_longbow_desc">A bow strung and restrung across generations of archers. Every arrow teaches it something.</string> <!-- untranslated -->
     <string name="item_heirloom_staff_name">Heirloom Staff</string> <!-- untranslated -->

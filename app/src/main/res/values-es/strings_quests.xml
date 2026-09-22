@@ -47,17 +47,17 @@
 
     <!-- Smithing -->
     <string name="quest_smithing_1_name">Herrería I</string>
-    <string name="quest_smithing_1_objective">Funde 500 Barras de Bronce</string>
+    <string name="quest_smithing_1_objective">Forja 500 Barras de Bronce</string>
     <string name="quest_smithing_2_name">Herrería II</string>
-    <string name="quest_smithing_2_objective">Funde 750 Barras de Hierro</string>
+    <string name="quest_smithing_2_objective">Forja 750 Barras de Hierro</string>
     <string name="quest_smithing_3_name">Herrería III</string>
-    <string name="quest_smithing_3_objective">Funde 1100 Barras de Acero</string>
+    <string name="quest_smithing_3_objective">Forja 1100 Barras de Acero</string>
     <string name="quest_smithing_4_name">Herrería IV</string>
-    <string name="quest_smithing_4_objective">Funde 1650 Barras de Mithril</string>
+    <string name="quest_smithing_4_objective">Forja 1650 Barras de Mithril</string>
     <string name="quest_smithing_5_name">Herrería V</string>
-    <string name="quest_smithing_5_objective">Funde 2450 Barras de Adamantita</string>
+    <string name="quest_smithing_5_objective">Forja 2450 Barras de Adamantita</string>
     <string name="quest_smithing_6_name">Herrería VI</string>
-    <string name="quest_smithing_6_objective">Funde 3650 Barras de Runite</string>
+    <string name="quest_smithing_6_objective">Forja 3650 Barras de Runite</string>
 
     <!-- Cooking - Fish -->
     <string name="quest_cooking_fish_1_name">Cocina — Fish I</string>
@@ -484,10 +484,10 @@
     <string name="quest_daily_wc_willow_objective">Tala 70 troncos de sauce.</string>
     <string name="quest_daily_wc_yew_objective">Tala 25 troncos de tejo.</string>
     <string name="quest_daily_wc_magic_objective">Tala 10 troncos mágicos.</string>
-    <string name="quest_daily_smith_iron_objective">Smith 40 iron bars.</string> <!-- untranslated -->
-    <string name="quest_daily_smith_mithril_objective">Smith 15 mithril bars.</string> <!-- untranslated -->
-    <string name="quest_daily_smith_adamantite_objective">Smith 10 adamantite bars.</string> <!-- untranslated -->
-    <string name="quest_daily_smith_runite_objective">Smith 5 runite bars.</string> <!-- untranslated -->
+    <string name="quest_daily_smith_iron_objective">Forja 40 barras de hierro.</string>
+    <string name="quest_daily_smith_mithril_objective">Forja 15 barras de mithril.</string>
+    <string name="quest_daily_smith_adamantite_objective">Forja 10 barras de adamantita.</string>
+    <string name="quest_daily_smith_runite_objective">Forja 5 barras de runite.</string>
     <string name="quest_daily_cook_trout_objective">Cook 100 trout.</string> <!-- untranslated -->
     <string name="quest_daily_cook_salmon_objective">Cook 80 salmon.</string> <!-- untranslated -->
     <string name="quest_daily_cook_lobster_objective">Cook 40 lobsters.</string> <!-- untranslated -->
