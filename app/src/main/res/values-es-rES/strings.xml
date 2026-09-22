@@ -7,7 +7,7 @@
     <string name="nav_skills">Habilidades</string>
     <string name="nav_combat">Combate</string>
     <string name="nav_home">Inicio</string>
-    <string name="nav_crafting">Crafting</string> <!-- untranslated -->
+    <string name="nav_crafting">Artesanía</string>
     <string name="nav_quests">Misiones</string>
     <string name="nav_profile">Perfil</string>
 
@@ -20,7 +20,7 @@
     <string name="btn_craft">Craftear</string>
     <string name="btn_confirm">Confirmar</string>
     <string name="btn_abandon">Abandonar</string>
-    <string name="btn_repeat_action">Repeat Action</string> <!-- untranslated -->
+    <string name="btn_repeat_action">Repetir</string>
     <string name="btn_collect">Recoger recompensas</string>
     <string name="btn_equip">Equipar</string>
     <string name="btn_unequip">Desequipar</string>
@@ -42,7 +42,7 @@
     <string name="btn_deactivate">Desactivar</string>
     <string name="btn_close">Cerrar</string>
     <string name="btn_back">Atrás</string>
-    <string name="btn_save">Save</string> <!-- untranslated -->
+    <string name="btn_save">Guardar</string>
 
     <!-- ===== Common labels ===== -->
     <string name="label_level">Nivel</string>
@@ -59,7 +59,7 @@
     <string name="label_inventory">Inventario</string>
     <string name="label_equipment">Equipamiento</string>
     <string name="label_combat_equipment">Gear</string> <!-- untranslated -->
-    <string name="label_pets">Pets</string> <!-- untranslated -->
+    <string name="label_pets">Mascotas</string>
     <string name="label_achievements">Logros</string>
     <string name="label_locations">Locations</string> <!-- untranslated -->
     <string name="label_bestiary">Bestiario</string>
@@ -67,7 +67,7 @@
     <string name="label_bosses">Jefes</string>
     <string name="label_by_location">Por Lugar</string>
     <string name="bestiary_not_encountered">Aún no encontrado</string>
-    <string name="bestiary_filter_all">All</string> <!-- untranslated -->
+    <string name="bestiary_filter_all">Todos</string>
     <string name="bestiary_filter_missing">Missing</string> <!-- untranslated -->
     <string name="bestiary_qty_header">Qty</string> <!-- untranslated -->
     <string name="bestiary_chance_header">Chance</string> <!-- untranslated -->
@@ -103,7 +103,7 @@
     <string name="label_gathering_skills">Recolección</string>
     <string name="label_crafting_skills">Habilidades de Artesanía</string>
     <string name="label_choose_activity">Elegir actividad</string>
-    <string name="label_coming_soon">Coming soon</string> <!-- untranslated -->
+    <string name="label_coming_soon">Próximamente</string>
     <string name="label_time_remaining">Tiempo restante</string>
     <!-- Translator note: compact duration units; English puts the letter(s) right after the number -->
     <string name="duration_years">%1$dy</string> <!-- untranslated -->
@@ -114,7 +114,7 @@
     <string name="duration_minutes">%1$dm</string> <!-- untranslated -->
     <string name="duration_seconds">%1$ds</string> <!-- untranslated -->
     <string name="duration_complete">Complete</string> <!-- untranslated -->
-    <string name="label_session_results">Session Results</string> <!-- untranslated -->
+    <string name="label_session_results">Resultados de la Sesión</string>
     <string name="label_xp_gained">XP obtenida</string>
     <string name="label_items_collected">Artículos recogidos</string>
     <string name="label_level_ups">Level ups</string> <!-- untranslated -->
@@ -130,26 +130,26 @@
     <string name="label_growth_time">Tiempo de crecimiento</string>
     <string name="label_ready_to_harvest">Listo para cosechar</string>
     <string name="label_empty">Vacío</string>
-    <string name="inventory_sort_quantity">Quantity</string> <!-- untranslated -->
+    <string name="inventory_sort_quantity">Cantidad</string>
     <string name="inventory_sort_az">A-Z</string> <!-- untranslated -->
-    <string name="inventory_cat_weapons">Weapons</string> <!-- untranslated -->
-    <string name="inventory_cat_armour">Armour</string> <!-- untranslated -->
-    <string name="inventory_cat_tools">Tools</string> <!-- untranslated -->
-    <string name="inventory_cat_food">Food</string> <!-- untranslated -->
-    <string name="inventory_cat_potions">Potions</string> <!-- untranslated -->
-    <string name="inventory_cat_materials">Materials</string> <!-- untranslated -->
-    <string name="inventory_cat_other">Other</string> <!-- untranslated -->
-    <string name="inventory_cat_raw_food">Raw Food</string> <!-- untranslated -->
-    <string name="inventory_cat_ammunition">Ammunition</string> <!-- untranslated -->
+    <string name="inventory_cat_weapons">Armas</string>
+    <string name="inventory_cat_armour">Armadura</string>
+    <string name="inventory_cat_tools">Herramientas</string>
+    <string name="inventory_cat_food">Comida</string>
+    <string name="inventory_cat_potions">Pociones</string>
+    <string name="inventory_cat_materials">Materiales</string>
+    <string name="inventory_cat_other">Otros</string>
+    <string name="inventory_cat_raw_food">Comida Cruda</string>
+    <string name="inventory_cat_ammunition">Munición</string>
     <string name="inventory_cat_ores">Minerales y Gemas</string>
     <string name="inventory_cat_construction">Construcción</string>
-    <string name="inventory_cat_seeds">Seeds &amp; Crops</string> <!-- untranslated -->
-    <string name="inventory_cat_filter_all">All</string> <!-- untranslated -->
+    <string name="inventory_cat_seeds">Semillas y Cultivos</string>
+    <string name="inventory_cat_filter_all">Todo</string>
     <string name="label_combat_style">Estilo de combate</string>
     <string name="label_active_spell">Hechizo activo</string>
-    <string name="label_drops">Drops</string> <!-- untranslated -->
-    <string name="label_boss">Boss</string> <!-- untranslated -->
-    <string name="label_dungeon">Dungeon</string> <!-- untranslated -->
+    <string name="label_drops">Encontrados</string>
+    <string name="label_boss">Jefe</string>
+    <string name="label_dungeon">Mazmorra</string>
     <string name="label_difficulty">Dificultad</string>
     <string name="label_completed">Completado</string>
     <string name="label_in_progress">En Progreso</string>
@@ -161,14 +161,14 @@
     <string name="label_sell_items">Vender artículos</string>
     <string name="label_total_level">Nivel Total</string>
     <string name="label_wins">Victorias</string>
-    <string name="label_losses">Losses</string> <!-- untranslated -->
-    <string name="label_active">Active</string> <!-- untranslated -->
-    <string name="label_inactive">Inactive</string> <!-- untranslated -->
-    <string name="label_boost">Boost</string> <!-- untranslated -->
-    <string name="label_xp_boost">XP Boost</string> <!-- untranslated -->
+    <string name="label_losses">Pérdidas</string>
+    <string name="label_active">Activo</string>
+    <string name="label_inactive">Inactivo</string>
+    <string name="label_boost">Impulso</string>
+    <string name="label_xp_boost">XP Impulso</string>
     <string name="label_prestige_xp_boost">Prestige XP Boost</string> <!-- untranslated -->
-    <string name="label_weapon">Weapon</string> <!-- untranslated -->
-    <string name="label_armour">Armour</string> <!-- untranslated -->
+    <string name="label_weapon">Arma</string>
+    <string name="label_armour">Armadura</string>
     <string name="label_food">Comida</string>
     <string name="label_arrows_consumed">Flechas consumidas</string>
     <string name="label_arrows_reclaimed">Flechas recuperadas</string>
@@ -182,20 +182,20 @@
     <string name="label_ranged_style">Arquería</string>
     <string name="label_magic_style">Magia</string>
     <string name="label_gathering">Reunión</string>
-    <string name="label_crafting">Crafting</string> <!-- untranslated -->
-    <string name="label_jewellery">Jewelry</string> <!-- untranslated -->
-    <string name="label_combat">Combat</string> <!-- untranslated -->
+    <string name="label_crafting">Artesanía</string>
+    <string name="label_jewellery">Joyería</string>
+    <string name="label_combat">Combate</string>
     <string name="label_recipe">Receta</string>
     <string name="label_recipes">Recetas</string>
     <string name="label_ingredients">Ingredientes</string>
     <string name="label_output">Output</string> <!-- untranslated -->
     <string name="label_xp_per_action">XP por acción</string>
     <string name="label_unlocked_at">Desbloqueado en el nivel</string>
-    <string name="label_kills">Kills</string> <!-- untranslated -->
-    <string name="label_personal_best">Personal Best</string> <!-- untranslated -->
+    <string name="label_kills">Muertes</string>
+    <string name="label_personal_best">Mejor marca personal</string>
     <string name="label_daily_dig">Excavación diaria</string>
     <string name="label_dig_depth">Profundidad del agujero</string>
-    <string name="label_version">Version</string> <!-- untranslated -->
+    <string name="label_version">Versión</string>
 
 
     <!-- ===== Format strings — all use positional args for Weblate ===== -->
@@ -306,7 +306,7 @@
     <string name="label_combat_level">Nivel de combate</string>
     <string name="label_shop_desc">Compra y vende artículos</string>
     <string name="label_no_session_hint">Dirígete a Habilidades o Combate para comenzar a entrenar.</string>
-    <string name="label_recent_activity">Recent Activity</string> <!-- untranslated -->
+    <string name="label_recent_activity">Actividad Reciente</string>
     <string name="settings_profile_layout">Diseño del perfil</string>
     <string name="settings_profile_layout_desc">Elige entre una barra lateral o pestañas superiores.</string>
     <string name="settings_profile_layout_rail">Barra lateral</string>
@@ -320,23 +320,23 @@
     <string name="settings_daily_reset_time_desc">Hora local en la que se renuevan las misiones diarias, las diarias del gremio y las semanales. Cambiarla nunca otorga un reinicio adicional.</string>
     <string name="settings_compact_numbers">Números abreviados</string>
     <string name="settings_compact_numbers_desc">Abrevia las cantidades grandes de objetos (p. ej. 2,46 M en lugar de 2.461.940).</string>
-    <string name="settings_home_screen">Pantalla de inicio</string>
-    <string name="settings_home_screen_desc">Elige qué se muestra en la pantalla de inicio.</string>
+    <string name="settings_home_screen">Pantalla de Inicio</string>
+    <string name="settings_home_screen_desc">Elige qué se muestra en la pantalla de inicio</string>
     <string name="settings_recent_activity">Registro de actividad reciente</string>
-    <string name="settings_recent_activity_desc">Muestra el botón de actividad reciente en el encabezado de la pantalla de inicio.</string>
-    <string name="settings_journal_button">Botón de diario</string>
-    <string name="settings_journal_button_desc">Muestra un botón de diario en la barra superior de la pantalla de inicio para tomar notas.</string>
-    <string name="settings_seasonal_events">Eventos de temporada</string>
-    <string name="settings_seasonal_events_desc">Muestra el banner del evento de temporada activo en la pantalla de inicio.</string>
-    <string name="settings_collapsible_town_grid">Cuadrícula de ciudad colapsable</string>
-    <string name="settings_collapsible_town_grid_desc">Muestra la sección de ciudad (tienda, posada, gremio, etc.) como una tarjeta plegable en la pantalla de inicio.</string>
-    <string name="settings_character_viewer">Visor de personaje</string>
-    <string name="settings_character_viewer_desc">Muestra el sprite de tu personaje en la pantalla de inicio.</string>
-    <string name="settings_stats_bar">Barra de estadísticas</string>
-    <string name="settings_stats_bar_desc">Muestra el nivel de combate, el nivel total y las monedas en la pantalla de inicio.</string>
-    <string name="settings_session_end_time">Hora de finalización</string>
-    <string name="settings_session_end_time_desc">Muestra la hora prevista de finalización junto a las cuentas atrás de sesión y de cola.</string>
-    <string name="label_no_sessions_yet">No sessions completed yet.</string> <!-- untranslated -->
+    <string name="settings_recent_activity_desc">Mostrar el botón de Actividad Reciente en el encabezado de la pantalla de inicio</string>
+    <string name="settings_journal_button">Botón de Diario</string>
+    <string name="settings_journal_button_desc">Show a floating Journal button on the home screen for jotting down notes</string>
+    <string name="settings_seasonal_events">Eventos de Temporada</string>
+    <string name="settings_seasonal_events_desc">Muestra el banner del Evento de Temporada activo en la pantalla de inicio</string>
+    <string name="settings_collapsible_town_grid">Cuadrícula de Ciudad Colapsable</string>
+    <string name="settings_collapsible_town_grid_desc">Muestra la sección de la Ciudad (Tienda, Posada, Gremio, etc.) como una tarjeta que puedes colapsar en la pantalla de inicio</string>
+    <string name="settings_character_viewer">Visor de Personaje</string>
+    <string name="settings_character_viewer_desc">Muestra el sprite de tu personaje en la pantalla de inicio</string>
+    <string name="settings_stats_bar">Barra de Estadísticas</string>
+    <string name="settings_stats_bar_desc">Muestra el Nivel de Combate, el Nivel Total y las Monedas en la pantalla de inicio</string>
+    <string name="settings_session_end_time">Hora de Finalización</string>
+    <string name="settings_session_end_time_desc">Muestra la hora estimada de finalización junto a los contadores de sesión y cola</string>
+    <string name="label_no_sessions_yet">Aún no se han completado sesiones.</string>
 
     <!-- ===== CombatScreen ===== -->
     <string name="label_dungeons_tab">Dungeons</string> <!-- untranslated -->
@@ -378,7 +378,7 @@
     <string name="settings_performance_header">Performance</string> <!-- untranslated -->
     <string name="settings_general_header">General</string>
     <string name="settings_tutorial_title">Tutorial</string>
-    <string name="settings_tutorial_desc">Mostrar la introducción de nuevo.</string>
+    <string name="settings_tutorial_desc">Mostrar la introducción de nuevo</string>
     <string name="settings_reopen">Reabrir</string>
     <string name="settings_changelog_title">Qué hay de nuevo</string>
     <string name="settings_changelog_desc">Ver los cambios de la última actualización.</string>
@@ -420,36 +420,36 @@
     <string name="settings_font_large">Grande</string>
     <string name="settings_font_huge">Enorme</string>
     <string name="settings_import_theme">Importar temas</string>
-    <string name="settings_import_theme_desc">Importa temas personalizados desde un archivo.</string>
+    <string name="settings_import_theme_desc">Importa temas personalizados desde un archivo</string>
     <string name="settings_delete_theme_btn">Eliminar tema</string>
-    <string name="settings_theme_imported_ok">Archivo de tema importado correctamente.</string>
-    <string name="settings_theme_imported_fail">Error al importar: archivo no válido.</string>
-    <string name="settings_theme_editor">Theme editor</string> <!-- untranslated -->
+    <string name="settings_theme_imported_ok">Archivo de tema importado correctamente</string>
+    <string name="settings_theme_imported_fail">Error al importar: archivo no válido</string>
+    <string name="settings_theme_editor">Editor de temas</string>
     <string name="theme_editor_new_btn">Nuevo tema</string>
     <string name="theme_editor_edit_btn">Editar tema</string>
-    <string name="theme_editor_preview_header">Preview</string> <!-- untranslated -->
-    <string name="theme_editor_sample_title">Sample card</string> <!-- untranslated -->
-    <string name="theme_editor_sample_body">Body text and muted text on a surface</string> <!-- untranslated -->
-    <string name="theme_editor_sample_button">Button</string> <!-- untranslated -->
-    <string name="theme_editor_sample_error">Error text</string> <!-- untranslated -->
-    <string name="theme_editor_name_label">Theme name</string> <!-- untranslated -->
-    <string name="theme_editor_name_reserved">This name is reserved for an official theme</string> <!-- untranslated -->
-    <string name="theme_editor_overwrite_hint">Saving will replace \"%1$s\"</string> <!-- untranslated -->
-    <string name="theme_editor_base_label">Base style</string> <!-- untranslated -->
-    <string name="theme_editor_palette_header">Palette</string> <!-- untranslated -->
-    <string name="theme_editor_used_for">Used for: %1$s</string> <!-- untranslated -->
-    <string name="theme_editor_contrast_header">Contrast warnings</string> <!-- untranslated -->
-    <string name="theme_editor_low_contrast">%1$s is hard to read on %2$s (%3$s, needs 4.5)</string> <!-- untranslated -->
-    <string name="theme_editor_add_roles">Add colour roles</string> <!-- untranslated -->
-    <string name="theme_editor_hex_label">Hex colour (AARRGGBB)</string> <!-- untranslated -->
-    <string name="theme_editor_copy_hex">Copy hex colour</string> <!-- untranslated -->
-    <string name="theme_editor_paste_hex">Paste hex colour</string> <!-- untranslated -->
-    <string name="theme_editor_remove_colour">Remove colour</string> <!-- untranslated -->
-    <string name="theme_editor_save">Save theme</string> <!-- untranslated -->
+    <string name="theme_editor_preview_header">Vista previa</string>
+    <string name="theme_editor_sample_title">Tarjeta de ejemplo</string>
+    <string name="theme_editor_sample_body">Texto normal y texto atenuado sobre una superficie</string>
+    <string name="theme_editor_sample_button">Botón</string>
+    <string name="theme_editor_sample_error">Texto de error</string>
+    <string name="theme_editor_name_label">Nombre del tema</string>
+    <string name="theme_editor_name_reserved">Este nombre está reservado para un tema oficial</string>
+    <string name="theme_editor_overwrite_hint">Guardar reemplazará \"%1$s\"</string>
+    <string name="theme_editor_base_label">Estilo base</string>
+    <string name="theme_editor_palette_header">Paleta</string>
+    <string name="theme_editor_used_for">Se usa para: %1$s</string>
+    <string name="theme_editor_contrast_header">Avisos de contraste</string>
+    <string name="theme_editor_low_contrast">%1$s es difícil de leer sobre %2$s (%3$s, se necesita 4,5)</string>
+    <string name="theme_editor_add_roles">Añadir roles de color</string>
+    <string name="theme_editor_hex_label">Color hex (AARRGGBB)</string>
+    <string name="theme_editor_copy_hex">Copiar color hex</string>
+    <string name="theme_editor_paste_hex">Pegar color hex</string>
+    <string name="theme_editor_remove_colour">Quitar color</string>
+    <string name="theme_editor_save">Guardar tema</string>
     <string name="theme_editor_export">Exportar</string>
-    <string name="theme_editor_saved_ok">Theme saved and applied</string> <!-- untranslated -->
-    <string name="theme_editor_exported_ok">Tema exportado.</string>
-    <string name="settings_language_desc">Cambia el idioma de la aplicación.</string>
+    <string name="theme_editor_saved_ok">Tema guardado y aplicado</string>
+    <string name="theme_editor_exported_ok">Tema exportado</string>
+    <string name="settings_language_desc">Sobrescribir el idioma de la aplicación</string>
 
 
 
@@ -514,7 +514,7 @@
     <string name="guild_dailies_done_today">Diarias completadas hoy</string>
     <string name="guild_dailies_remaining_today">%1$d restantes hoy</string>
     <string name="guild_do_dailies_hint">Do dailies to increase your reputation</string>
-    <string name="guild_quest_gate_blocked">Complete quests to advance your rank</string> <!-- untranslated -->
+    <string name="guild_quest_gate_blocked">Completa misiones para avanzar de rango.</string>
     <string name="guild_quest_required">Se requiere una misión para avanzar</string>
     <string name="guild_progress_dailies_and_quest">Completa %1$d/%2$d solicitudes diarias y misiones para avanzar</string>
     <string name="guild_progress_dailies_only">Completa %1$d/%2$d solicitudes diarias para avanzar</string>
@@ -530,7 +530,7 @@
     <string name="home_whats_new">Qué hay de nuevo</string>
     <string name="home_got_it">Entiendo</string>
     <!-- Translator note: %1$s = player name or "Adventurer" -->
-    <string name="home_adventurer">Adventurer</string> <!-- untranslated -->
+    <string name="home_adventurer">Aventurero</string>
     <!-- Translator note: %1$d = current queue size, %2$d = max queue size (base 3, +1 per Queue Master tier) -->
     <string name="home_up_next">A continuación (%1$d/3)</string>
     <!-- Translator note: %1$s = formatted duration string (e.g. "2h 15m") -->
@@ -551,27 +551,27 @@
     <!-- Translator note: %1$d = number of completed dungeon runs -->
     <string name="combat_dungeon_runs">%1$d runs</string> <!-- untranslated -->
     <!-- Translator note: %1$d = kills, %2$d = food consumed -->
-    <string name="combat_last_run">Last: %1$d kills, %2$d food</string> <!-- untranslated -->
+    <string name="combat_last_run">Última: %1$d kills, %2$d comida</string>
     <!-- Translator note: %1$d = kills -->
-    <string name="combat_last_run_died">Last: died (%1$d kills)</string> <!-- untranslated -->
+    <string name="combat_last_run_died">Última: muerto (%1$d kills)</string>
     <string name="combat_atk">ATK</string> <!-- untranslated -->
     <string name="combat_str">STR</string> <!-- untranslated -->
     <string name="combat_def">DEF</string> <!-- untranslated -->
     <!-- Translator note: %1$d = HP healed -->
     <string name="combat_heals_hp">recupera %1$d HP</string>
     <string name="combat_defeated_so_far">derrotados hasta ahora.</string>
-    <string name="combat_eaten_so_far">eaten so far.</string> <!-- untranslated -->
+    <string name="combat_eaten_so_far">comidos hasta ahora.</string>
     <string name="combat_fighting">Luchando…</string>
     <string name="combat_log_you_hit">Has golpeado</string>
     <string name="combat_log_hit_you">te golpea</string>
     <string name="combat_log_missed">fallo</string>
     <string name="combat_log_you_missed">Has fallado</string>
-    <string name="combat_log_kill">☠ %1$s defeated</string> <!-- untranslated -->
-    <string name="combat_log_player_hit">→ You hit %1$s: %2$d dmg</string> <!-- untranslated -->
+    <string name="combat_log_kill">☠ %1$s derrotado</string>
+    <string name="combat_log_player_hit">→ Has golpeado %1$s: %2$d daño</string>
     <string name="combat_log_player_double_hit">→ Double hit! You strike %1$s twice: %2$d dmg</string> <!-- untranslated -->
-    <string name="combat_log_player_miss">→ You missed %1$s</string> <!-- untranslated -->
-    <string name="combat_log_enemy_hit">← %1$s hit you: %2$d dmg</string> <!-- untranslated -->
-    <string name="combat_log_enemy_miss">← %1$s missed</string> <!-- untranslated -->
+    <string name="combat_log_player_miss">→ Has fallado a %1$s</string>
+    <string name="combat_log_enemy_hit">← %1$s te golpea: %2$d daño</string>
+    <string name="combat_log_enemy_miss">← %1$s fallo</string>
     <string name="combat_log_ally_hit">→ Your mercenaries hit %1$s: %2$d dmg</string> <!-- untranslated -->
     <string name="combat_log_heal">✚ You eat: +%1$d HP</string> <!-- untranslated -->
     <string name="combat_eat_threshold_warning">Risky: at a low threshold a hard hit can drop you to 0 HP before your character eats.</string> <!-- untranslated -->
@@ -582,13 +582,13 @@
     <string name="combat_arrow_auto">Auto (best available)</string> <!-- untranslated -->
     <string name="combat_label_arrow">Arrow</string> <!-- untranslated -->
     <string name="combat_arrow_ranged_str">+%1$d Ranged Strength</string> <!-- untranslated -->
-    <string name="combat_select_loadout">Select Loadout</string> <!-- untranslated -->
+    <string name="combat_select_loadout">Seleccionar equipamiento</string>
     <string name="combat_enemies">Enemigos</string>
     <string name="combat_no_spells">No tienes hechizos disponibles con tu nivel de magia.</string>
     <string name="combat_only_castable">Only Castable</string> <!-- untranslated -->
     <string name="combat_max_hit">max hit</string> <!-- untranslated -->
     <string name="combat_you_have_runes">(tienes %1$d %2$s)</string>
-    <string name="combat_infinite_runes">(infinite %1$s)</string> <!-- untranslated -->
+    <string name="combat_infinite_runes">(infinito %1$s)</string>
     <string name="combat_spell_locked">Requires Magic level %1$d</string> <!-- untranslated -->
     <string name="combat_spell_level_met">Magic level %1$d</string> <!-- untranslated -->
     <string name="combat_no_potion">Sin poción</string>
@@ -596,12 +596,12 @@
     <string name="combat_duration">Duracion</string>
     <!-- Translator note: %1$d = minutes -->
     <string name="combat_duration_min">%1$d min</string> <!-- untranslated -->
-    <string name="combat_fight_count_label">Number of Fights</string> <!-- untranslated -->
+    <string name="combat_fight_count_label">Número de combates</string>
     <!-- Translator note: %1$d = number of queued repeat fights, e.g. "×100 fights" -->
-    <string name="combat_fight_count_suffix">×%1$d fights</string> <!-- untranslated -->
+    <string name="combat_fight_count_suffix">×%1$d combates</string>
     <!-- Translator note: %1$d = current fight number, %2$d = total fights requested, e.g. "Fight 34/100" -->
-    <string name="combat_fight_progress">Fight %1$d/%2$d</string> <!-- untranslated -->
-    <string name="combat_run_count_label">Number of Runs</string> <!-- untranslated -->
+    <string name="combat_fight_progress">Combate %1$d/%2$d</string>
+    <string name="combat_run_count_label">Número de runs</string>
     <!-- Translator note: %1$d = number of queued repeat dungeon runs, e.g. "×24 runs" -->
     <string name="combat_run_count_suffix">×%1$d runs</string> <!-- untranslated -->
     <!-- Translator note: %1$d = current run number, %2$d = total runs requested, e.g. "Run 12/24" -->
@@ -612,7 +612,7 @@
     <!-- Translator note: %1$d = gear bonus value -->
     <string name="combat_gear_bonus">+%1$d gear</string> <!-- untranslated -->
     <!-- Translator note: %1$d = permanent prestige stat bonus value -->
-    <string name="combat_prestige_bonus">+%1$d prestige</string> <!-- untranslated -->
+    <string name="combat_prestige_bonus">+%1$d prestigio</string>
 
     <!-- ===== ProfileScreen ===== -->
     <string name="profile_unnamed">Aventurero sin nombre</string>
@@ -632,19 +632,19 @@
         <item>%1$s promises to keep working hard for you.</item>
     </string-array> <!-- untranslated -->
     <string name="profile_equip_best">Equipa el mejor equipo</string>
-    <string name="profile_equip_best_tools">Equip Best Tools</string> <!-- untranslated -->
-    <string name="profile_weapons">Weapons</string> <!-- untranslated -->
+    <string name="profile_equip_best_tools">Equipa las mejores herramientas</string>
+    <string name="profile_weapons">Armas</string>
     <string name="profile_combat_gear">Equipo de combate</string>
     <string name="profile_view_combat_gear">View Combat Gear</string> <!-- untranslated -->
     <string name="profile_gathering_tools">Herramientas de recolección</string>
     <string name="profile_food_dungeon">Alimento (Dungeon)</string>
     <string name="profile_no_food">No hay alimentos cocinados en el inventario.</string>
-    <string name="profile_food_threshold">Start Eating At</string> <!-- untranslated -->
+    <string name="profile_food_threshold">Empezar a comer al</string>
     <string name="profile_food_order">Eating order</string> <!-- untranslated -->
     <string name="food_order_descending">Highest Heal Value First</string> <!-- untranslated -->
     <string name="food_order_ascending">Lowest Heal Value First</string> <!-- untranslated -->
     <string name="food_order_least_quantity">Least Quantity First</string> <!-- untranslated -->
-    <string name="profile_combat_style">Combat Style</string> <!-- untranslated -->
+    <string name="profile_combat_style">Estilo de combate</string>
     <!-- Translator note: %1$d = quantity, %2$d = heal value -->
     <string name="profile_food_desc">×%1$d  •  heals %2$d HP</string> <!-- untranslated -->
     <!-- Translator note: %1$s = slot display name (e.g. "Weapon") -->
@@ -659,10 +659,10 @@
     <string name="profile_stat_fishing">Pesca</string>
     <string name="profile_stat_farming">Agricultura</string>
     <string name="profile_stat_smithing">Herrería</string>
-    <string name="profile_stat_firemaking">Firemaking</string> <!-- untranslated -->
+    <string name="profile_stat_firemaking">Hacer fuego</string>
     <string name="profile_stat_agility">Agilidad</string>
-    <string name="profile_stat_cooking">Cooking</string> <!-- untranslated -->
-    <string name="profile_stat_thieving">Thieving</string> <!-- untranslated -->
+    <string name="profile_stat_cooking">Cocina</string>
+    <string name="profile_stat_thieving">Robo</string>
     <string name="profile_stat_def">Def</string> <!-- untranslated -->
     <string name="profile_req_lv">Req lv.</string> <!-- untranslated -->
 
@@ -718,28 +718,28 @@
     <string name="shop_sell_junk">Vender chatarra</string>
     <string name="shop_keep_one_toggle">Keep one of each item</string> <!-- untranslated -->
     <string name="shop_search_hint">Search items</string> <!-- untranslated -->
-    <string name="shop_filter_all">All</string> <!-- untranslated -->
+    <string name="shop_filter_all">Todos</string>
     <string name="shop_order_default">Default</string> <!-- untranslated -->
-    <string name="shop_order_highest_amount">Quantity</string> <!-- untranslated -->
-    <string name="shop_order_highest_price">Price</string> <!-- untranslated -->
+    <string name="shop_order_highest_amount">Cuantidad</string>
+    <string name="shop_order_highest_price">Precio</string>
     <string name="shop_sell_blocked_equipped">%1$s is equipped. Unequip it first to sell.</string> <!-- untranslated -->
     <string name="shop_sell_blocked_reserved">%1$s is reserved for a queued task.</string> <!-- untranslated -->
     <string name="shop_sell_blocked_keep_one">Keeping your last %1$s (Keep one of each item is on).</string> <!-- untranslated -->
     <string name="shop_sell_blocked_none">Nothing to sell.</string> <!-- untranslated -->
     <string name="shop_sell_old_gear">Vende equipo</string>
     <string name="shop_equipped_label">(equipado)</string>
-    <string name="shop_item_locked">%1$s is locked. Long-press to unlock.</string> <!-- untranslated -->
-    <string name="shop_item_lock_on">%1$s locked</string> <!-- untranslated -->
-    <string name="shop_item_lock_off">%1$s unlocked</string> <!-- untranslated -->
-    <string name="quest_legend_title">Quest icons</string> <!-- untranslated -->
-    <string name="quest_legend_daily">Daily quest</string> <!-- untranslated -->
-    <string name="quest_legend_weekly">Weekly quest</string> <!-- untranslated -->
+    <string name="shop_item_locked">%1$s está bloqueado. Mantén pulsado para desbloquear.</string>
+    <string name="shop_item_lock_on">%1$s bloqueado</string>
+    <string name="shop_item_lock_off">%1$s desbloqueado</string>
+    <string name="quest_legend_title">Iconos de misiones</string>
+    <string name="quest_legend_daily">Misión diaria</string>
+    <string name="quest_legend_weekly">Misión semanal</string>
     <string name="quest_legend_seasonal">Seasonal bounty</string> <!-- untranslated -->
-    <string name="quest_legend_guild_daily">Guild daily</string> <!-- untranslated -->
-    <string name="quest_legend_guild">Guild quest</string> <!-- untranslated -->
-    <string name="quest_legend_quest">Quest</string> <!-- untranslated -->
+    <string name="quest_legend_guild_daily">Diaria del gremio</string>
+    <string name="quest_legend_guild">Misión del gremio</string>
+    <string name="quest_legend_quest">Misión</string>
     <string name="quest_legend_gold_dot">Timed quest is available.</string> <!-- untranslated -->
-    <string name="quest_legend_notes">Dimmed icons can\'t be completed yet (missing level or materials). A small raised number means several quests of that type want the same thing.</string> <!-- untranslated -->
+    <string name="quest_legend_notes">Los iconos atenuados aún no se pueden completar (falta nivel o materiales). Un pequeño número elevado indica que varias misiones de ese tipo piden lo mismo.</string>
     <!-- Translator note: %1$s = quantity in inventory -->
     <string name="shop_qty_in_inv">×%1$s en inventario</string>
     <!-- Translator note: %1$s = formatted coin amount -->
@@ -767,10 +767,10 @@
     <string name="crafting_needed_have">%1$d (have %2$d)</string> <!-- untranslated -->
     <!-- Translator note: %1$d = quantity in inventory -->
     <string name="crafting_in_inventory">In inventory: ×%1$d</string> <!-- untranslated -->
-    <string name="crafting_quest_targets">Quest targets</string> <!-- untranslated -->
-    <string name="quest_fill_daily">Daily</string> <!-- untranslated -->
-    <string name="quest_fill_weekly">Weekly</string> <!-- untranslated -->
-    <string name="quest_fill_guild">Guild</string> <!-- untranslated -->
+    <string name="crafting_quest_targets">Objetivos de misión</string>
+    <string name="quest_fill_daily">Diaria</string>
+    <string name="quest_fill_weekly">Semanal</string>
+    <string name="quest_fill_guild">Gremio</string>
 
     <!-- ===== FarmingScreen ===== -->
     <!-- Translator note: %1$s = crop name -->
@@ -784,7 +784,7 @@
     <string name="farming_clear_desc_named">Remove the %1$s without any reward?</string> <!-- untranslated -->
     <string name="farming_clear_desc_bean">Remove the Magic Bean? It will be returned to your inventory.</string> <!-- untranslated -->
     <string name="farming_harvest_and_plant">Harvest and Plant All</string> <!-- untranslated -->
-    <string name="farming_harvest_all_complete">All Patches Harvested!</string> <!-- untranslated -->
+    <string name="farming_harvest_all_complete">¡Todas las parcelas cosechadas!</string>
     <string name="farming_no_crops_ready">No crops ready to harvest</string> <!-- untranslated -->
     <string name="farming_no_empty_patches">No empty patches available</string> <!-- untranslated -->
     <!-- Translator note: %1$s = seed name -->
@@ -814,14 +814,14 @@
     <string name="character_race_gnome">Gnome</string> <!-- untranslated -->
 
     <!-- ===== CharacterCustomizationSheet ===== -->
-    <string name="appearance_title">Customise Appearance</string> <!-- untranslated -->
-    <string name="appearance_skin_tone">Skin Tone</string> <!-- untranslated -->
-    <string name="appearance_eyes">Eyes</string> <!-- untranslated -->
-    <string name="appearance_hair_style">Hair Style</string> <!-- untranslated -->
-    <string name="appearance_hair_color">Hair Colour</string> <!-- untranslated -->
-    <string name="appearance_beard">Beard</string> <!-- untranslated -->
-    <string name="appearance_beard_color">Beard Colour</string> <!-- untranslated -->
-    <string name="appearance_save">Save Appearance</string> <!-- untranslated -->
+    <string name="appearance_title">Personalizar apariencia</string>
+    <string name="appearance_skin_tone">Tono de piel</string>
+    <string name="appearance_eyes">Ojos</string>
+    <string name="appearance_hair_style">Estilo de pelo</string>
+    <string name="appearance_hair_color">Color de pelo</string>
+    <string name="appearance_beard">Barba</string>
+    <string name="appearance_beard_color">Color de barba</string>
+    <string name="appearance_save">Guardar apariencia</string>
 
     <!-- ===== OnboardingScreen ===== -->
     <string name="onboarding_sessions_title">Actividades</string>
@@ -833,7 +833,7 @@
     <string name="onboarding_welcome_desc">Un RPG idle inspirado en MMORPGs clásicos. Entrena habilidades, enfréntate a mazmorras y crea equipo. Todo offline, sin cuentas ni anuncios.</string>
 
     <!-- Quantity picker quick buttons -->
-    <string name="qty_max">Max</string> <!-- untranslated -->
+    <string name="qty_max">Max</string>
 
     <!-- ===== Inn / Worker ===== -->
     <string-array name="worker_names">
