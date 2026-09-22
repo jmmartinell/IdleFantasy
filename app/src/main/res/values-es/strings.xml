@@ -702,7 +702,7 @@
     <string name="skills_level_reached">Level %1$d reached!</string> <!-- untranslated -->
     <string name="skills_no_logs">No logs in inventory</string> <!-- untranslated -->
     <!-- Translator note: %1$d = level required, %2$s = XP per log -->
-    <string name="skills_log_desc">Lv. %1$d  •  %2$s XP/log</string> <!-- untranslated -->
+    <string name="skills_log_desc">Lv. %1$d  •  %2$s XP/tronco</string>
     <!-- Translator note: %1$d = level required, %2$s = XP per catch -->
     <string name="skills_fish_desc">Lv. %1$d  •  %2$s XP/catch</string> <!-- untranslated -->
     <!-- Translator note: %1$d = required level, %2$s = skill name, %3$d = player level, %4$s = skill name again -->
@@ -1639,10 +1639,10 @@
     <string name="item_abyssal_bar_name">Abyssal Bar</string> <!-- untranslated -->
     <string name="item_voidsteel_bar_name">Voidsteel Bar</string> <!-- untranslated -->
     <string name="item_starforged_bar_name">Starforged Bar</string> <!-- untranslated -->
-    <string name="item_coastal_pine_log_name">Coastal Pine Log</string> <!-- untranslated -->
-    <string name="item_grove_oak_log_name">Grove Oak Log</string> <!-- untranslated -->
-    <string name="item_abyssal_log_name">Abyssal Log</string> <!-- untranslated -->
-    <string name="item_starwood_log_name">Starwood Log</string> <!-- untranslated -->
+    <string name="item_coastal_pine_log_name">Tronco de Pino Costero</string>
+    <string name="item_grove_oak_log_name">Tronco de Roble del Bosque</string>
+    <string name="item_abyssal_log_name">Tronco Abisal</string>
+    <string name="item_starwood_log_name">Tronco Estelar</string>
     <string name="item_raw_tidepool_crab_name">Tidepool Crab (raw)</string> <!-- untranslated -->
     <string name="item_raw_grove_bass_name">Grove Bass (raw)</string> <!-- untranslated -->
     <string name="item_raw_lavafin_name">Lavafin (raw)</string> <!-- untranslated -->
@@ -1657,10 +1657,10 @@
     <string name="item_sacred_wood_name">Sacred Wood</string> <!-- untranslated -->
 
     <!-- Elder Isle: gathering targets (trees) -->
-    <string name="item_coastal_pine_name">Coastal Pine</string> <!-- untranslated -->
-    <string name="item_grove_oak_name">Grove Oak</string> <!-- untranslated -->
-    <string name="item_abyssal_tree_name">Abyssal Tree</string> <!-- untranslated -->
-    <string name="item_starwood_tree_name">Starwood Tree</string> <!-- untranslated -->
+    <string name="item_coastal_pine_name">Pino Costero</string>
+    <string name="item_grove_oak_name">Roble del Bosque</string>
+    <string name="item_abyssal_tree_name">Árbol Abisal</string>
+    <string name="item_starwood_tree_name">Árbol Estelar</string>
 
     <!-- Elder Isle: crafted armor pieces (tier progression Coastal → Grove → Volcanic → Elder) -->
     <string name="item_coastal_helm_name">Coastal Helm</string> <!-- untranslated -->
@@ -2504,7 +2504,7 @@
 
     <!-- New distinctive base path names (variety pass) -->
     <string name="prestige_path_fishing_rod">Sturdy Rod</string> <!-- untranslated -->
-    <string name="prestige_path_woodcutting_axe">Honed Edge</string> <!-- untranslated -->
+    <string name="prestige_path_woodcutting_axe">Filo Afilado</string>
     <string name="prestige_path_cooking_hearty">Hearty Meals</string> <!-- untranslated -->
     <string name="prestige_path_smithing_thrift">Careful Smith</string> <!-- untranslated -->
     <string name="prestige_path_crafting_thrift">Steady Hands</string> <!-- untranslated -->
@@ -2533,7 +2533,7 @@
     <!-- Prestige path names (skill flavored) -->
     <string name="prestige_path_mining_yield">Mineral Más Puro</string>
     <string name="prestige_path_fishing_yield">More Fish</string> <!-- untranslated -->
-    <string name="prestige_path_woodcutting_yield">Sharper Axe</string> <!-- untranslated -->
+    <string name="prestige_path_woodcutting_yield">Hacha Más Afilada</string>
     <string name="prestige_path_thieving_yield">Faster Picking</string> <!-- untranslated -->
     <string name="prestige_path_slayer_yield">Hunter\'s Instinct</string> <!-- untranslated -->
     <string name="prestige_path_attack_prowess">Precisión</string>
@@ -2550,7 +2550,7 @@
     <string name="prestige_path_thieving_race_elf">Shadow Step</string> <!-- untranslated -->
     <string name="prestige_path_firemaking_race_dwarf">Ember Heart</string> <!-- untranslated -->
     <string name="prestige_path_fishing_race_halfling">Patient Angler</string> <!-- untranslated -->
-    <string name="prestige_path_woodcutting_race_halfling">Forest Kin</string> <!-- untranslated -->
+    <string name="prestige_path_woodcutting_race_halfling">Hijo del Bosque</string>
     <string name="prestige_path_farming_race_halfling">Bountiful Harvest</string> <!-- untranslated -->
     <string name="prestige_path_cooking_race_halfling">Home Cook</string> <!-- untranslated -->
     <string name="prestige_path_construction_race_halfling">Cozy Builder</string> <!-- untranslated -->
@@ -2580,8 +2580,8 @@
     <!-- Heirloom items (raid boss rare drops that level up with use) -->
     <string name="item_heirloom_pickaxe_name">Pico Heredado</string>
     <string name="item_heirloom_pickaxe_desc">Un pico familiar transmitido de generación en generación. Recuerda cada mineral que alguna vez rompieron sus portadores.</string>
-    <string name="item_heirloom_axe_name">Heirloom Axe</string> <!-- untranslated -->
-    <string name="item_heirloom_axe_desc">A woodsman\'s axe worn smooth by a hundred hands. Every felled tree sharpens it a little more.</string> <!-- untranslated -->
+    <string name="item_heirloom_axe_name">Hacha Heredada</string>
+    <string name="item_heirloom_axe_desc">Un hacha de leñador pulida por cien manos. Cada árbol talado la afila un poco más.</string>
     <string name="item_heirloom_fishing_rod_name">Heirloom Fishing Rod</string> <!-- untranslated -->
     <string name="item_heirloom_fishing_rod_desc">An old rod that has landed catches beyond counting. It learns the water with every cast.</string> <!-- untranslated -->
     <string name="item_heirloom_hoe_name">Heirloom Hoe</string> <!-- untranslated -->

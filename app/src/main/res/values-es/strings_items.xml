@@ -55,19 +55,19 @@
     <string name="item_diamond_desc">La gema más rara y valiosa.</string>
 
     <!-- ===== Logs ===== -->
-    <string name="item_log_name">Logs</string> <!-- untranslated -->
+    <string name="item_log_name">Troncos</string>
     <string name="item_log_desc">Troncos básicos de árboles normales. Se utilizan para encender fuego y fabricar flechas.</string>
-    <string name="item_oak_log_name">Oak Logs</string> <!-- untranslated -->
+    <string name="item_oak_log_name">Troncos de roble</string>
     <string name="item_oak_log_desc">Troncos de roble.</string>
-    <string name="item_willow_log_name">Willow Logs</string> <!-- untranslated -->
+    <string name="item_willow_log_name">Troncos de sauce</string>
     <string name="item_willow_log_desc">Troncos ligeros de sauce.</string>
-    <string name="item_maple_log_name">Maple Logs</string> <!-- untranslated -->
+    <string name="item_maple_log_name">Troncos de arce</string>
     <string name="item_maple_log_desc">Troncos densos de arces.</string>
-    <string name="item_yew_log_name">Yew Logs</string> <!-- untranslated -->
+    <string name="item_yew_log_name">Troncos de tejo</string>
     <string name="item_yew_log_desc">Troncos de tejos antiguos.</string>
-    <string name="item_magic_log_name">Magic Logs</string> <!-- untranslated -->
+    <string name="item_magic_log_name">Troncos mágicos</string>
     <string name="item_magic_log_desc">Troncos imbuidos de árboles mágicos raros.</string>
-    <string name="item_redwood_log_name">Redwood Logs</string> <!-- untranslated -->
+    <string name="item_redwood_log_name">Troncos de secuoya</string>
     <string name="item_redwood_log_desc">Enormes troncos procedentes de las secuoyas más altas.</string>
 
     <!-- ===== Raw fish ===== -->
@@ -353,8 +353,8 @@
     <string name="item_adamantite_axe_desc">Un hacha de adamantita extremadamente resistente.</string>
     <string name="item_runite_axe_name">Hacha de Runite</string>
     <string name="item_runite_axe_desc">La mejor hacha disponible, utilizada por los leñadores más experimentados.</string>
-    <string name="item_divine_axe_name">Divine Axe</string> <!-- untranslated -->
-    <string name="item_divine_axe_desc">An axe that fells even the oldest trees with a single blow.</string> <!-- untranslated -->
+    <string name="item_divine_axe_name">Hacha Divina</string>
+    <string name="item_divine_axe_desc">Un hacha que derriba hasta los árboles más antiguos de un solo golpe.</string>
 
     <!-- Tools — fishing rods -->
     <string name="item_bronze_fishing_rod_name">Bronze Fishing Rod</string> <!-- untranslated -->
@@ -480,12 +480,12 @@
     <string name="item_black_pearl_name">Black Pearl</string> <!-- untranslated -->
     <string name="item_nature_rune_name">Nature Rune</string> <!-- untranslated -->
     <string name="item_herb_name">Herb</string> <!-- untranslated -->
-    <string name="item_mahogany_log_name">Mahogany Log</string> <!-- untranslated -->
+    <string name="item_mahogany_log_name">Tronco de caoba</string>
     <string name="item_oyster_name">Oyster</string> <!-- untranslated -->
     <string name="item_crab_name">Crab</string> <!-- untranslated -->
     <string name="item_bird_nest_name">Bird Nest</string> <!-- untranslated -->
     <string name="item_tree_seed_name">Tree Seed</string> <!-- untranslated -->
-    <string name="item_teak_log_name">Teak Log</string> <!-- untranslated -->
+    <string name="item_teak_log_name">Tronco de teca</string>
 
     <!-- ===== Miscellaneous drops ===== -->
     <string name="item_ashes_name">Cenizas</string>
@@ -836,7 +836,7 @@
     <string name="item_dragon_longsword_name">Dragon Longsword</string> <!-- untranslated -->
     <string name="item_dragon_scimitar_name">Dragon Scimitar</string> <!-- untranslated -->
     <string name="item_dragon_whelp_name">Dragon Whelp</string> <!-- untranslated -->
-    <string name="item_dwarven_axe_name">Dwarven Axe</string> <!-- untranslated -->
+    <string name="item_dwarven_axe_name">Hacha Enana</string>
     <string name="item_dwarven_boots_name">Dwarven Boots</string> <!-- untranslated -->
     <string name="item_dwarven_fishing_rod_name">Dwarven Fishing Rod</string> <!-- untranslated -->
     <string name="item_dwarven_frying_pan_name">Sartén Enana</string>
@@ -877,7 +877,7 @@
     <string name="item_iron_med_helmet_name">Iron Med Helmet</string> <!-- untranslated -->
     <string name="item_iron_plateskirt_name">Iron Plateskirt</string> <!-- untranslated -->
     <string name="item_iron_square_shield_name">Iron Square Shield</string> <!-- untranslated -->
-    <string name="item_ironwood_axe_name">Ironwood Axe</string> <!-- untranslated -->
+    <string name="item_ironwood_axe_name">Hacha de Madera Férrea</string>
     <string name="item_king_black_dragon_name">King Black Dragon</string> <!-- untranslated -->
     <string name="item_kraken_name">Kraken</string> <!-- untranslated -->
     <string name="item_kraken_tentacle_name">Kraken Tentacle</string> <!-- untranslated -->
@@ -932,7 +932,7 @@
     <string name="item_runite_med_helmet_name">Runite Med Helmet</string> <!-- untranslated -->
     <string name="item_runite_plateskirt_name">Runite Plateskirt</string> <!-- untranslated -->
     <string name="item_runite_square_shield_name">Runite Square Shield</string> <!-- untranslated -->
-    <string name="item_sanctum_axe_name">Sanctum Axe</string> <!-- untranslated -->
+    <string name="item_sanctum_axe_name">Hacha del Santuario</string>
     <string name="item_seers_ring_name">Seers Ring</string> <!-- untranslated -->
     <string name="item_seers_ring_desc">Increases magic accuracy. Requires Mercantile level 60 to purchase.</string> <!-- untranslated -->
     <string name="item_shadow_dagger_name">Shadow Dagger</string> <!-- untranslated -->
@@ -967,8 +967,8 @@
     <string name="item_trident_of_the_seas_name">Trident Of The Seas</string> <!-- untranslated -->
     <string name="item_warriors_guild_cape_name">Warriors Guild Cape</string> <!-- untranslated -->
     <string name="item_willow_shortbow_name">Willow Shortbow</string> <!-- untranslated -->
-    <string name="item_woodcutting_cape_name">Woodcutting Cape</string> <!-- untranslated -->
-    <string name="item_woodcutting_guild_cape_name">Woodcutting Guild Cape</string> <!-- untranslated -->
+    <string name="item_woodcutting_cape_name">Capa de Tala de Madera</string>
+    <string name="item_woodcutting_guild_cape_name">Capa del Gremio de Leñadores</string>
     <string name="item_yew_longbow_name">Yew Longbow</string> <!-- untranslated -->
     <string name="item_yew_shortbow_name">Yew Shortbow</string> <!-- untranslated -->
     <string name="item_void_reaver_name">Desgarrador del Vacío</string>
@@ -1112,8 +1112,8 @@
     <string name="item_mining_guild_cape_desc" formatted="false">Se otorga por alcanzar el nivel 10 del Gremio de Minería. Otorga un 5% más de mineral por sesión.</string>
     <string name="item_fishing_cape_desc" formatted="false">Awarded for reaching level 99 Fishing. Grants 10% more fish per session.</string> <!-- untranslated -->
     <string name="item_fishing_guild_cape_desc" formatted="false">Awarded for reaching Fishing Guild level 10. Grants 5% more fish per session.</string> <!-- untranslated -->
-    <string name="item_woodcutting_cape_desc" formatted="false">Awarded for reaching level 99 Woodcutting. Grants 10% more logs per session.</string> <!-- untranslated -->
-    <string name="item_woodcutting_guild_cape_desc" formatted="false">Awarded for reaching Woodcutting Guild level 10. Grants 5% more logs per session.</string> <!-- untranslated -->
+    <string name="item_woodcutting_cape_desc" formatted="false">Se otorga por alcanzar el nivel 99 de Tala de Madera. Otorga un 10% más de troncos por sesión.</string>
+    <string name="item_woodcutting_guild_cape_desc" formatted="false">Se otorga por alcanzar el nivel 10 del Gremio de Leñadores. Otorga un 5% más de troncos por sesión.</string>
     <string name="item_farming_cape_desc" formatted="false">Awarded for reaching level 99 Farming. Grants 10% more harvest per session.</string> <!-- untranslated -->
     <string name="item_farming_guild_cape_desc" formatted="false">Awarded for reaching Farming Guild level 10. Grants 5% more harvest per session.</string> <!-- untranslated -->
     <string name="item_thieving_cape_name">Thieving Cape</string> <!-- untranslated -->
@@ -1158,9 +1158,9 @@
     <string name="item_deep_iron_pickaxe_desc">Forjado con mineral extraído de los pozos más profundos de la Mina Derrumbada. Golpea con una precisión asombrosa.</string>
     <string name="item_dwarven_pickaxe_desc">Un pico enano de obra maestra. La mejor herramienta de minería jamás fabricada.</string>
     <string name="item_forge_pickaxe_desc">Templado en las llamas de la propia Forja Antigua. El pico más raro y poderoso que existe.</string>
-    <string name="item_ironwood_axe_desc">Hewn from the ironwood trees that once stood in the Ancient Forest Ruins. Exceptionally durable.</string> <!-- untranslated -->
-    <string name="item_dwarven_axe_desc">A legendary dwarven axe. Cuts through any tree with ease.</string> <!-- untranslated -->
-    <string name="item_sanctum_axe_desc">Forged in the shadow of the Corrupted Sanctum. Its blade cuts through even magic logs with ease.</string> <!-- untranslated -->
+    <string name="item_ironwood_axe_desc">Tallada de los árboles de madera férrea que una vez se alzaron en las Ruinas del Bosque Antiguo. Excepcionalmente duradera.</string>
+    <string name="item_dwarven_axe_desc">Un hacha enana legendaria. Corta cualquier árbol con facilidad.</string>
+    <string name="item_sanctum_axe_desc">Forjada a la sombra del Santuario Corrupto. Su filo corta hasta los troncos mágicos con facilidad.</string>
     <string name="item_blessed_fishing_rod_desc">Crafted from driftwood recovered from the Drowned Temple, blessed by ancient sea rites.</string> <!-- untranslated -->
     <string name="item_dwarven_fishing_rod_desc">A dwarven-crafted fishing rod. Practically hauls fish out of the water.</string> <!-- untranslated -->
     <string name="item_abyssal_rod_desc">Woven from void-touched filament recovered from the Abyssal Ruins. Fish practically leap onto it.</string> <!-- untranslated -->

@@ -19,17 +19,17 @@
 
     <!-- Woodcutting -->
     <string name="quest_woodcutting_1_name">Tala de árboles I</string>
-    <string name="quest_woodcutting_1_objective">Corta 500 Logs</string>
+    <string name="quest_woodcutting_1_objective">Corta 500 Troncos</string>
     <string name="quest_woodcutting_2_name">Tala de árboles II</string>
-    <string name="quest_woodcutting_2_objective">Corta 750 Oak Logs</string>
+    <string name="quest_woodcutting_2_objective">Corta 750 Troncos de roble</string>
     <string name="quest_woodcutting_3_name">Tala de árboles III</string>
-    <string name="quest_woodcutting_3_objective">Corta 1100 Willow Logs</string>
+    <string name="quest_woodcutting_3_objective">Corta 1100 Troncos de sauce</string>
     <string name="quest_woodcutting_4_name">Tala de árboles IV</string>
-    <string name="quest_woodcutting_4_objective">Corta 1650 Maple Logs</string>
+    <string name="quest_woodcutting_4_objective">Corta 1650 Troncos de arce</string>
     <string name="quest_woodcutting_5_name">Tala de árboles V</string>
-    <string name="quest_woodcutting_5_objective">Corta 2450 Yew Logs</string>
+    <string name="quest_woodcutting_5_objective">Corta 2450 Troncos de tejo</string>
     <string name="quest_woodcutting_6_name">Tala de árboles VI</string>
-    <string name="quest_woodcutting_6_objective">Corta 3650 Magic Logs</string>
+    <string name="quest_woodcutting_6_objective">Corta 3650 Troncos mágicos</string>
 
     <!-- Fishing -->
     <string name="quest_fishing_1_name">Pesca I</string>
@@ -480,10 +480,10 @@
     <string name="quest_daily_fish_lobster_objective">Catch 60 lobsters.</string> <!-- untranslated -->
     <string name="quest_daily_fish_swordfish_objective">Catch 30 swordfish.</string> <!-- untranslated -->
     <string name="quest_daily_fish_shark_objective">Catch 15 sharks.</string> <!-- untranslated -->
-    <string name="quest_daily_wc_oak_objective">Chop 100 oak logs.</string> <!-- untranslated -->
-    <string name="quest_daily_wc_willow_objective">Chop 70 willow logs.</string> <!-- untranslated -->
-    <string name="quest_daily_wc_yew_objective">Chop 25 yew logs.</string> <!-- untranslated -->
-    <string name="quest_daily_wc_magic_objective">Chop 10 magic logs.</string> <!-- untranslated -->
+    <string name="quest_daily_wc_oak_objective">Tala 100 troncos de roble.</string>
+    <string name="quest_daily_wc_willow_objective">Tala 70 troncos de sauce.</string>
+    <string name="quest_daily_wc_yew_objective">Tala 25 troncos de tejo.</string>
+    <string name="quest_daily_wc_magic_objective">Tala 10 troncos mágicos.</string>
     <string name="quest_daily_smith_iron_objective">Smith 40 iron bars.</string> <!-- untranslated -->
     <string name="quest_daily_smith_mithril_objective">Smith 15 mithril bars.</string> <!-- untranslated -->
     <string name="quest_daily_smith_adamantite_objective">Smith 10 adamantite bars.</string> <!-- untranslated -->

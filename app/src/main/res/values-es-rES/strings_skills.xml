@@ -59,17 +59,17 @@
 
     <!-- ===== Tree names ===== -->
     <string name="tree_tree_name">Árbol</string>
-    <string name="tree_oak_tree_name">Roble</string>
-    <string name="tree_willow_tree_name">Sauce</string>
-    <string name="tree_maple_tree_name">Arce</string>
-    <string name="tree_yew_tree_name">Tejo</string>
+    <string name="tree_oak_tree_name">Árbol de roble</string>
+    <string name="tree_willow_tree_name">Árbol de sauce</string>
+    <string name="tree_maple_tree_name">Árbol de arce</string>
+    <string name="tree_yew_tree_name">Árbol de tejo</string>
     <string name="tree_magic_tree_name">Árbol mágico</string>
-    <string name="tree_redwood_tree_name">Secuoya</string>
+    <string name="tree_redwood_tree_name">Árbol de secuoya</string>
     <!-- Elder Isle woodcutting targets -->
-    <string name="tree_coastal_pine_name">Pino costero</string>
-    <string name="tree_grove_oak_name">Roble de la arboleda</string>
-    <string name="tree_abyssal_tree_name">Árbol abisal</string>
-    <string name="tree_starwood_tree_name">Árbol estelar</string>
+    <string name="tree_coastal_pine_name">Pino Costero</string>
+    <string name="tree_grove_oak_name">Roble del Bosque</string>
+    <string name="tree_abyssal_tree_name">Árbol Abisal</string>
+    <string name="tree_starwood_tree_name">Árbol Estelar</string>
 
     <!-- ===== Agility course names and descriptions ===== -->
     <string name="agility_beginner_course_name">Curso Principiante</string>
