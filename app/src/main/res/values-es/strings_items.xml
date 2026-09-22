@@ -715,13 +715,13 @@
     <string name="item_maple_plank_name">Tablón de Arce</string>
     <string name="item_yew_plank_name">Tablón de Tejo</string>
     <string name="item_magic_plank_name">Tablón Mágico</string>
-    <string name="item_redwood_plank_name">Redwood Plank</string> <!-- untranslated -->
+    <string name="item_redwood_plank_name">Tablón de Secuoya</string>
     <string name="item_iron_nail_name">Clavo de Hierro</string>
     <string name="item_steel_nail_name">Clavo de Acero</string>
     <string name="item_mithril_nail_name">Clavo de Mithril</string>
-    <string name="item_runite_nail_name">Runite Nail</string> <!-- untranslated -->
+    <string name="item_runite_nail_name">Clavo de Runite</string>
     <string name="item_stone_name">Piedra</string>
-    <string name="item_stone_desc">A block of stone. Used for construction.</string> <!-- untranslated -->
+    <string name="item_stone_desc">Un bloque de piedra. Se usa en construcción.</string>
     <string name="item_carved_stone_name">Piedra Tallada</string>
     <string name="item_stone_block_name">Bloque de Piedra</string>
 
@@ -734,9 +734,9 @@
     <string name="item_maple_dresser_name">Cómoda de Arce</string>
     <string name="item_yew_wardrobe_name">Ropero de Tejo</string>
     <string name="item_magic_throne_name">Trono Mágico</string>
-    <string name="item_redwood_bench_name">Redwood Bench</string> <!-- untranslated -->
-    <string name="item_redwood_bookcase_name">Redwood Bookcase</string> <!-- untranslated -->
-    <string name="item_redwood_grand_bed_name">Redwood Grand Bed</string> <!-- untranslated -->
+    <string name="item_redwood_bench_name">Banco de Secuoya</string>
+    <string name="item_redwood_bookcase_name">Estantería de Secuoya</string>
+    <string name="item_redwood_grand_bed_name">Gran Cama de Secuoya</string>
 
 
     <!-- ===== Seed names ===== -->
@@ -817,7 +817,7 @@
     <string name="item_bronze_plateskirt_name">Bronze Plateskirt</string> <!-- untranslated -->
     <string name="item_bronze_square_shield_name">Bronze Square Shield</string> <!-- untranslated -->
     <string name="item_chicken_name">Pollo cocido</string>
-    <string name="item_construction_guild_cape_name">Construction Guild Cape</string> <!-- untranslated -->
+    <string name="item_construction_guild_cape_name">Capa del Gremio de Constructores</string>
     <string name="item_cooking_cape_name">Cooking Cape</string> <!-- untranslated -->
     <string name="item_cooking_guild_cape_name">Cooking Guild Cape</string> <!-- untranslated -->
     <string name="item_crafting_cape_name">Crafting Cape</string> <!-- untranslated -->
@@ -1108,7 +1108,7 @@
     <string name="item_tower_cape_name">Tower Cape</string> <!-- untranslated -->
     <string name="item_tower_cape_desc">A flowing cape that radiates the tower\'s energy.</string> <!-- untranslated -->
     <string name="item_mining_cape_desc" formatted="false">Se otorga por alcanzar el nivel 99 de Minería. Otorga un 10% más de mineral por sesión.</string>
-    <string name="item_construction_guild_cape_desc" formatted="false">Awarded for reaching Builders Guild level 10. Grants 5% more furniture per session.</string> <!-- untranslated -->
+    <string name="item_construction_guild_cape_desc" formatted="false">Otorgada por alcanzar el nivel 10 en el Gremio de Constructores. Otorga un 5% más de muebles por sesión.</string>
     <string name="item_mining_guild_cape_desc" formatted="false">Se otorga por alcanzar el nivel 10 del Gremio de Minería. Otorga un 5% más de mineral por sesión.</string>
     <string name="item_fishing_cape_desc" formatted="false">Awarded for reaching level 99 Fishing. Grants 10% more fish per session.</string> <!-- untranslated -->
     <string name="item_fishing_guild_cape_desc" formatted="false">Awarded for reaching Fishing Guild level 10. Grants 5% more fish per session.</string> <!-- untranslated -->
@@ -1134,8 +1134,8 @@
     <string name="item_herblore_cape_name">Herblore Cape</string> <!-- untranslated -->
     <string name="item_herblore_cape_desc" formatted="false">Awarded for reaching level 99 Herblore. Grants 10% more potions per session.</string> <!-- untranslated -->
     <string name="item_herblore_guild_cape_desc" formatted="false">Awarded for reaching Herblore Guild level 10. Grants 5% more potions per session.</string> <!-- untranslated -->
-    <string name="item_construction_cape_name">Construction Cape</string> <!-- untranslated -->
-    <string name="item_construction_cape_desc" formatted="false">Awarded for reaching level 99 Construction. Grants 10% more items per session.</string> <!-- untranslated -->
+    <string name="item_construction_cape_name">Capa de Construcción</string>
+    <string name="item_construction_cape_desc" formatted="false">Otorgada por alcanzar el nivel 99 en Construcción. Otorga un 10% más de objetos por sesión.</string>
     <string name="item_prayer_cape_desc" formatted="false">Awarded for reaching level 99 Prayer. Strengthens your active blessing by 10%.</string> <!-- untranslated -->
     <string name="item_prayer_guild_cape_desc" formatted="false">Awarded for reaching Prayer Guild level 10. Strengthens your active blessing by 5%.</string> <!-- untranslated -->
     <string name="item_mercantile_cape_name">Capa de Mercantil</string>

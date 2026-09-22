@@ -300,22 +300,22 @@
     <string name="quest_herblore_6_objective">Mix 1500 Super Strength Potions</string> <!-- untranslated -->
 
     <!-- Construction -->
-    <string name="quest_construction_1_name">Construction I</string> <!-- untranslated -->
-    <string name="quest_construction_1_objective">Build 50 Wooden Racks</string> <!-- untranslated -->
-    <string name="quest_construction_2_name">Construction II</string> <!-- untranslated -->
-    <string name="quest_construction_2_objective">Build 50 Oak Tables</string> <!-- untranslated -->
-    <string name="quest_construction_3_name">Construction III</string> <!-- untranslated -->
-    <string name="quest_construction_3_objective">Build 50 Willow Cabinets</string> <!-- untranslated -->
-    <string name="quest_construction_4_name">Construction IV</string> <!-- untranslated -->
-    <string name="quest_construction_4_objective">Build 50 Maple Dressers</string> <!-- untranslated -->
+    <string name="quest_construction_1_name">Construcción I</string>
+    <string name="quest_construction_1_objective">Construye 50 Estantes de Madera.</string>
+    <string name="quest_construction_2_name">Construcción II</string>
+    <string name="quest_construction_2_objective">Construye 50 Mesas de Roble.</string>
+    <string name="quest_construction_3_name">Construcción III</string>
+    <string name="quest_construction_3_objective">Construye 50 Armarios de Sauce.</string>
+    <string name="quest_construction_4_name">Construcción IV</string>
+    <string name="quest_construction_4_objective">Construye 50 Cómodas de Arce.</string>
     <string name="quest_construction_5_name">Construcción V</string>
-    <string name="quest_construction_5_objective">Build 25 Magic Thrones</string> <!-- untranslated -->
-    <string name="quest_construction_upgrade_inn_name">Renovate the Inn</string> <!-- untranslated -->
-    <string name="quest_construction_upgrade_inn_objective">Upgrade the Inn at least once</string> <!-- untranslated -->
-    <string name="quest_construction_upgrade_guild_name">Expand the Guild Hall</string> <!-- untranslated -->
-    <string name="quest_construction_upgrade_guild_objective">Upgrade the Guild Hall at least once</string> <!-- untranslated -->
-    <string name="quest_construction_upgrade_church_name">Restore the Church</string> <!-- untranslated -->
-    <string name="quest_construction_upgrade_church_objective">Upgrade the Church at least once</string> <!-- untranslated -->
+    <string name="quest_construction_5_objective">Construye 25 Tronos Mágicos.</string>
+    <string name="quest_construction_upgrade_inn_name">Renueva la Posada</string>
+    <string name="quest_construction_upgrade_inn_objective">Mejora la Posada al menos una vez.</string>
+    <string name="quest_construction_upgrade_guild_name">Amplía el Gremio</string>
+    <string name="quest_construction_upgrade_guild_objective">Mejora el Gremio al menos una vez.</string>
+    <string name="quest_construction_upgrade_church_name">Restaura la Iglesia</string>
+    <string name="quest_construction_upgrade_church_objective">Mejora la Iglesia al menos una vez.</string>
 
     <!-- Thieving -->
     <string name="quest_thieving_1_name">Thieving I</string> <!-- untranslated -->

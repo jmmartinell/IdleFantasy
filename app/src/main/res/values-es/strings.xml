@@ -1143,7 +1143,7 @@
     <string name="house_done">Done</string> <!-- untranslated -->
     <string name="house_share">Share a picture of your house</string> <!-- untranslated -->
     <string name="house_rooms_owned">Rooms: %1$d</string> <!-- untranslated -->
-    <string name="house_construction_level">Construction level %1$d</string> <!-- untranslated -->
+    <string name="house_construction_level">Nivel de construcción %1$d</string>
     <string name="house_add_room">Add room (%1$s)</string> <!-- untranslated -->
     <string name="house_add_room_locked">Add room (Lv %1$d)</string> <!-- untranslated -->
     <string name="house_bill_title">Bill of Sale</string> <!-- untranslated -->
@@ -1458,13 +1458,13 @@
     <string name="crafting_tier_maple">Arce</string>
     <string name="crafting_tier_mithril">Mithril</string> <!-- untranslated -->
     <string name="crafting_tier_oak">Roble</string>
-    <string name="crafting_tier_plank">Plank</string> <!-- untranslated -->
+    <string name="crafting_tier_plank">Tablón</string>
     <string name="crafting_tier_platinum">Platino</string>
-    <string name="crafting_tier_redwood">Redwood</string> <!-- untranslated -->
-    <string name="crafting_tier_runite">Runite</string> <!-- untranslated -->
+    <string name="crafting_tier_redwood">Secuoya</string>
+    <string name="crafting_tier_runite">Runite</string>
     <string name="crafting_tier_silver">Plata</string>
     <string name="crafting_tier_steel">Acero</string>
-    <string name="crafting_tier_stone">Stone</string> <!-- untranslated -->
+    <string name="crafting_tier_stone">Piedra</string>
     <string name="crafting_tier_willow">Sauce</string>
     <string name="crafting_tier_yew">Tejo</string>
 
@@ -1527,7 +1527,7 @@
     <string name="town_upgrade_next_label">Siguiente Mejora</string>
     <string name="town_upgrade_constr_req">Construcción Nv. %1$d requerido</string>
     <string name="town_upgrade_cost">Coste: %1$s monedas</string>
-    <string name="town_builder_discount">Builder\'s discount: %1$d%% off</string> <!-- untranslated -->
+    <string name="town_builder_discount">Descuento del constructor: %1$d%%</string>
     <string name="town_upgrade_materials_header">Materiales:</string>
     <string name="town_upgrade_btn">Mejorar</string>
     <string name="town_upgrade_success">¡Edificio mejorado!</string>
@@ -2493,7 +2493,7 @@
     <string name="prestige_effect_blessing_cost_pct">Church blessings cost %1$d%% fewer bones.</string> <!-- untranslated -->
     <string name="prestige_effect_potion_bonus_flat">Combat potions grant +%1$d more to their stats.</string> <!-- untranslated -->
     <string name="prestige_effect_input_save_pct">%1$d%% of crafting materials are refunded.</string> <!-- untranslated -->
-    <string name="prestige_effect_builder_discount_pct">Town building upgrades cost %1$d%% less.</string> <!-- untranslated -->
+    <string name="prestige_effect_builder_discount_pct">Las mejoras de edificios del pueblo cuestan %1$d%% menos.</string>
     <string name="prestige_effect_sell_price_pct">Shop sell prices +%1$d%%.</string> <!-- untranslated -->
     <string name="prestige_effect_slayer_points_pct">Slayer task points +%1$d%%.</string> <!-- untranslated -->
     <string name="prestige_effect_double_hit_pct">%1$d%% chance to strike a second melee hit.</string> <!-- untranslated -->
@@ -2511,7 +2511,7 @@
     <string name="prestige_path_herblore_potency">Potent Potions</string> <!-- untranslated -->
     <string name="prestige_path_runecrafting_runethrift">Essence Bond</string> <!-- untranslated -->
     <string name="prestige_path_magic_runethrift">Rune Thrift</string> <!-- untranslated -->
-    <string name="prestige_path_construction_efficient">Efficient Builder</string> <!-- untranslated -->
+    <string name="prestige_path_construction_efficient">Constructor Eficiente</string>
     <string name="prestige_path_prayer_devotion">Devoción</string>
     <string name="prestige_path_mercantile_trade">Barón del Comercio</string>
     <string name="prestige_path_slayer_bounty">Bounty Hunter</string> <!-- untranslated -->
@@ -2553,11 +2553,11 @@
     <string name="prestige_path_woodcutting_race_halfling">Hijo del Bosque</string>
     <string name="prestige_path_farming_race_halfling">Bountiful Harvest</string> <!-- untranslated -->
     <string name="prestige_path_cooking_race_halfling">Home Cook</string> <!-- untranslated -->
-    <string name="prestige_path_construction_race_halfling">Cozy Builder</string> <!-- untranslated -->
+    <string name="prestige_path_construction_race_halfling">Constructor Acogedor</string>
     <string name="prestige_path_fishing_race_gnome">Clever Lures</string> <!-- untranslated -->
     <string name="prestige_path_fletching_race_gnome">Tinker\'s Touch</string> <!-- untranslated -->
     <string name="prestige_path_firemaking_race_gnome">Spark Wright</string> <!-- untranslated -->
-    <string name="prestige_path_construction_race_gnome">Gadget Works</string> <!-- untranslated -->
+    <string name="prestige_path_construction_race_gnome">Taller de Inventos</string>
     <string name="prestige_path_prayer_race_gnome">Trickster\'s Favor</string> <!-- untranslated -->
     <string name="prestige_path_hitpoints_race_orc">Thick Hide</string> <!-- untranslated -->
 
