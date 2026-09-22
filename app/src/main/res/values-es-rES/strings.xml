@@ -869,7 +869,7 @@
     <string name="inn_not_enough_coins">Not enough coins.</string> <!-- untranslated -->
     <string name="inn_hire">Hire</string> <!-- untranslated -->
     <string name="inn_worker_active">Worker hired</string>
-    <string name="inn_hire_cost">%1$s coins</string> <!-- untranslated -->
+    <string name="inn_hire_cost">%1$s monedas</string>
     <string name="worker_long_laborer">Long Laborer</string> <!-- untranslated -->
     <string name="worker_apprentice">Apprentice</string> <!-- untranslated -->
     <string name="worker_journeyman">Journeyman</string> <!-- untranslated -->
@@ -884,7 +884,7 @@
     <string name="worker_session_active">Worker Session Active</string> <!-- untranslated -->
     <string name="worker_session_complete">Worker Session Complete</string> <!-- untranslated -->
     <string name="worker_manage_from_home">Collect from the Home screen</string> <!-- untranslated -->
-    <string name="worker_session_assigned">Assigned: %1$s %2$s</string> <!-- untranslated -->
+    <string name="worker_session_assigned">Asignado: %1$s %2$s</string>
     <string name="worker_card_title">Worker</string> <!-- untranslated -->
     <string name="worker_idle">Worker is idle — queued sessions start automatically</string> <!-- untranslated -->
     <string name="worker_collect_btn">Collect Worker Session</string> <!-- untranslated -->
@@ -905,7 +905,7 @@
     <string name="achievement_group_levelling">Levelling</string> <!-- untranslated -->
     <string name="achievement_group_combat">Combat</string> <!-- untranslated -->
     <string name="achievement_group_quests">Quests</string> <!-- untranslated -->
-    <string name="achievement_group_collection">Collection</string> <!-- untranslated -->
+    <string name="achievement_group_collection">Colección</string>
 
     <string name="achievement_total_50_name">Adventurer</string> <!-- untranslated -->
     <string name="achievement_total_50_desc">Reach total level 50</string> <!-- untranslated -->
@@ -936,8 +936,8 @@
     <string name="achievement_combat_75_desc">Reach combat level 75</string> <!-- untranslated -->
     <string name="achievement_combat_99_name">Max Combat</string>
     <string name="achievement_combat_99_desc">Reach combat level 99</string> <!-- untranslated -->
-    <string name="achievement_combat_113_name">Max Combat</string> <!-- untranslated -->
-    <string name="achievement_combat_113_desc">Reach the maximum combat level of 113</string> <!-- untranslated -->
+    <string name="achievement_combat_113_name">Máximo Combate</string>
+    <string name="achievement_combat_113_desc">Alcanza el nivel máximo de combate de 113</string>
 
     <string name="achievement_quest_1_name">Quester</string> <!-- untranslated -->
     <string name="achievement_quest_1_desc">Complete 1 quest</string> <!-- untranslated -->
@@ -950,7 +950,7 @@
     <string name="achievement_quest_all_name">Quest Champion</string> <!-- untranslated -->
     <string name="achievement_quest_all_desc">Complete all quests</string> <!-- untranslated -->
 
-    <string name="achievement_pet_first_name">Animal Friend</string> <!-- untranslated -->
+    <string name="achievement_pet_first_name">Amigo de los Animales</string>
     <string name="achievement_pet_first_desc">Collect your first pet</string> <!-- untranslated -->
     <string name="achievement_pet_all_name">Menagerie</string> <!-- untranslated -->
     <string name="achievement_pet_all_desc">Collect all pets</string> <!-- untranslated -->
@@ -962,7 +962,7 @@
     <string name="inn_daily_resets">Refreshes daily at 6am</string>
     <string name="inn_food_heal">+%1$d HP</string> <!-- untranslated -->
     <string name="inn_food_purchased">Food purchased.</string> <!-- untranslated -->
-    <string name="inn_buy_qty">Quantity</string> <!-- untranslated -->
+    <string name="inn_buy_qty">Cuandidad</string>
     <string name="inn_buy_total">Total: %1$s</string> <!-- untranslated -->
     <string name="inn_card_desc">Workers and daily food</string>
     <string name="worker_no_active_session">Worker is idle — no sessions queued</string> <!-- untranslated -->
@@ -984,16 +984,16 @@
     <string name="guild_dailies_all_done">Todas las solicitudes diarias de hoy están completas. ¡Vuelve mañana!</string>
     <string name="guild_contribute_inventory">Contribuir desde el inventario (%1$d disponibles)</string>
     <string name="guild_go_to_skill">Ir a la habilidad</string>
-    <string name="guild_quest_desc_gather">%1$s %2$d %3$s for the %4$s.</string> <!-- untranslated -->
-    <string name="guild_quest_desc_kill">Defeat %1$d enemies using %2$s combat.</string> <!-- untranslated -->
-    <string name="guild_quest_desc_prayer">Bury %1$d bones for the %2$s.</string> <!-- untranslated -->
-    <string name="guild_quest_desc_sessions">Complete %1$d %2$s sessions for the %3$s.</string> <!-- untranslated -->
+    <string name="guild_quest_desc_gather">%1$s %2$d %3$s para el %4$s.</string>
+    <string name="guild_quest_desc_kill">Derrota %1$d enemigos usando combate %2$s.</string>
+    <string name="guild_quest_desc_prayer">Entierra %1$d huesos para el %2$s.</string>
+    <string name="guild_quest_desc_sessions">Completa %1$d sesiones de %2$s para el %3$s.</string>
     <string name="guild_quest_desc_trade">Complete %1$d trade routes for the %2$s.</string>
-    <string name="guild_quest_desc_earn_coins">Earn %1$s coins via trade routes for the %2$s.</string> <!-- untranslated -->
-    <string name="guild_quest_desc_pickpocket">Pickpocket the %2$s %1$d times for the %3$s.</string> <!-- untranslated -->
-    <string name="guild_combat_warriors">melee</string> <!-- untranslated -->
-    <string name="guild_combat_archers">ranged</string> <!-- untranslated -->
-    <string name="guild_combat_mages">magic</string> <!-- untranslated -->
+    <string name="guild_quest_desc_earn_coins">Gana %1$s monedas a través de rutas comerciales para el %2$s.</string>
+    <string name="guild_quest_desc_pickpocket">Roba al %2$s %1$d veces para el %3$s.</string>
+    <string name="guild_combat_warriors">cuerpo a cuerpo</string>
+    <string name="guild_combat_archers">a distancia</string>
+    <string name="guild_combat_mages">mágico</string>
     <string name="guild_rep_label">%1$d / %2$d rep</string>
     <string name="guild_quest_complete">Quest complete: %1$s</string>
     <string name="guild_daily_complete">Daily reward claimed!</string> <!-- untranslated -->
@@ -1017,8 +1017,8 @@
     <string name="guild_name_mercantile">Gremio de Mercaderes</string>
     <string name="guild_name_construction">Gremio de Constructores</string>
     <string name="guild_name_slayer">Gremio de Slayer</string>
-    <string name="guild_quest_desc_slayer_task">Complete %1$d slayer tasks for the %2$s.</string> <!-- untranslated -->
-    <string name="guild_quest_desc_slayer_kill">Defeat %1$d enemies while on a slayer task.</string> <!-- untranslated -->
+    <string name="guild_quest_desc_slayer_task">Completa %1$d tareas de Slayer para %2$s.</string>
+    <string name="guild_quest_desc_slayer_kill">Derrota %1$d enemigos durante una tarea de Slayer.</string>
 
     <!-- Mercantile skill -->
     <string name="skill_mercantile">Mercantil</string>
@@ -1039,7 +1039,7 @@
 
     <!-- Church -->
     <string name="church_title">Iglesia</string>
-    <string name="church_desc">Blessings for XP, defense, and coins</string> <!-- untranslated -->
+    <string name="church_desc">Prayer blessings</string>
     <string name="church_no_active_blessing">No active blessing — visit the Church to pray.</string> <!-- untranslated -->
     <string name="church_active_label">Active Blessing</string> <!-- untranslated -->
     <string name="church_expires_in">Expires in %1$s</string> <!-- untranslated -->
@@ -1048,8 +1048,8 @@
     <string name="church_section_defense">Defense Blessings</string> <!-- untranslated -->
     <string name="church_section_coins">Coin Blessings</string> <!-- untranslated -->
     <string name="church_locked_level">Requires Prayer level %1$d</string> <!-- untranslated -->
-    <string name="church_active_chip">Active</string> <!-- untranslated -->
-    <string name="church_activate">Activate</string> <!-- untranslated -->
+    <string name="church_active_chip">Activo</string>
+    <string name="church_activate">Activar</string>
     <string name="church_blessing_bonus">+%1$s from blessing</string> <!-- untranslated -->
     <string name="church_blessing_suffix">from blessing</string> <!-- untranslated -->
     <string name="church_effect_xp">×%1$.2f XP for %2$d hours</string> <!-- untranslated -->
@@ -1065,13 +1065,13 @@
 
     <!-- Blessing names -->
     <string name="blessing_blessed_focus_name">Blessed Focus</string> <!-- untranslated -->
-    <string name="blessing_stone_skin_name">Stone Skin</string> <!-- untranslated -->
+    <string name="blessing_stone_skin_name">Piel de la Piedra</string>
     <string name="blessing_blessed_focus_ii_name">Blessed Focus II</string> <!-- untranslated -->
-    <string name="blessing_stone_skin_ii_name">Stone Skin II</string> <!-- untranslated -->
+    <string name="blessing_stone_skin_ii_name">Piel de la Piedra II</string>
     <string name="blessing_blessed_focus_iii_name">Blessed Focus III</string> <!-- untranslated -->
-    <string name="blessing_stone_skin_iii_name">Stone Skin III</string> <!-- untranslated -->
+    <string name="blessing_stone_skin_iii_name">Piel de la Piedra III</string>
     <string name="blessing_tithe_blessing_name">Tithe Blessing</string> <!-- untranslated -->
-    <string name="blessing_stone_skin_iv_name">Stone Skin IV</string> <!-- untranslated -->
+    <string name="blessing_stone_skin_iv_name">Piel de la Piedra IV</string>
     <string name="blessing_fortune_i_name">Fortune I</string> <!-- untranslated -->
     <string name="blessing_tithe_blessing_ii_name">Tithe Blessing II</string> <!-- untranslated -->
     <string name="blessing_iron_ward_name">Iron Ward</string> <!-- untranslated -->
@@ -1080,10 +1080,10 @@
     <string name="blessing_iron_ward_ii_name">Iron Ward II</string> <!-- untranslated -->
     <string name="blessing_fortune_iii_name">Fortune III</string> <!-- untranslated -->
     <string name="blessing_divine_focus_name">Divine Focus</string> <!-- untranslated -->
-    <string name="blessing_diamond_skin_name">Diamond Skin</string> <!-- untranslated -->
+    <string name="blessing_diamond_skin_name">Piel del Diamante</string>
     <string name="blessing_fortune_iv_name">Fortune IV</string> <!-- untranslated -->
     <string name="blessing_divine_focus_ii_name">Divine Focus II</string> <!-- untranslated -->
-    <string name="blessing_diamond_skin_ii_name">Diamond Skin II</string> <!-- untranslated -->
+    <string name="blessing_diamond_skin_ii_name">Piel del Diamante II</string>
     <string name="blessing_fortune_v_name">Fortune V</string> <!-- untranslated -->
     <string name="blessing_divine_grace_name">Divine Grace</string> <!-- untranslated -->
     <string name="blessing_holy_shield_name">Holy Shield</string> <!-- untranslated -->
@@ -1096,40 +1096,40 @@
     <string name="blessing_abundance_iii_name">Abundance III</string> <!-- untranslated -->
 
     <!-- Skilling dungeon names and descriptions -->
-    <string name="skilling_dungeon_copper_caverns_name">Copper Caverns</string> <!-- untranslated -->
-    <string name="skilling_dungeon_copper_caverns_desc">A long-abandoned mine beneath the foothills. Its copper veins still glitter in the dark.</string> <!-- untranslated -->
-    <string name="skilling_dungeon_dwarven_depths_name">Dwarven Depths</string> <!-- untranslated -->
-    <string name="skilling_dungeon_dwarven_depths_desc">The deepest level of an ancient dwarven excavation. Rich veins of rare metal hide behind the bones of its builders.</string> <!-- untranslated -->
-    <string name="skilling_dungeon_whispering_grove_name">Whispering Grove</string> <!-- untranslated -->
-    <string name="skilling_dungeon_whispering_grove_desc">A primeval forest where the trees have grown for thousands of years undisturbed. Something speaks between the branches.</string> <!-- untranslated -->
-    <string name="skilling_dungeon_corrupted_canopy_name">Corrupted Canopy</string> <!-- untranslated -->
-    <string name="skilling_dungeon_corrupted_canopy_desc">A forest where shadow has replaced sunlight. The trees bleed black sap and the air tastes of old magic.</string> <!-- untranslated -->
-    <string name="skilling_dungeon_sunken_grotto_name">Sunken Grotto</string> <!-- untranslated -->
-    <string name="skilling_dungeon_sunken_grotto_desc">A sea cave carved by centuries of tides. Strange stone pillars rise from the water.</string> <!-- untranslated -->
-    <string name="skilling_dungeon_abyssal_lagoon_name">Abyssal Lagoon</string> <!-- untranslated -->
-    <string name="skilling_dungeon_abyssal_lagoon_desc">A still black lagoon with no visible bottom. The fish here glow faintly and dissolve within minutes of being caught.</string> <!-- untranslated -->
-    <string name="skilling_dungeon_crumbling_watchtower_name">Crumbling Watchtower</string> <!-- untranslated -->
-    <string name="skilling_dungeon_crumbling_watchtower_desc">A decrepit stone tower perched at the edge of the foothills. Something still guards what was once stored inside.</string> <!-- untranslated -->
-    <string name="skilling_dungeon_shattered_spire_name">Shattered Spire</string> <!-- untranslated -->
-    <string name="skilling_dungeon_shattered_spire_desc">The remains of a wizard\'s tower reduced to a field of rubble. The air still crackles with residual magic.</string> <!-- untranslated -->
-    <string name="skilling_dungeon_thieves_den_name">Thieves\' Den</string> <!-- untranslated -->
-    <string name="skilling_dungeon_thieves_den_desc">A labyrinth of tunnels beneath the city streets, used by an organised ring of thieves.</string> <!-- untranslated -->
-    <string name="skilling_dungeon_shadow_vault_name">Shadow Vault</string> <!-- untranslated -->
-    <string name="skilling_dungeon_shadow_vault_desc">A hidden vault beneath the Rogue Sanctum where the guild\'s most valuable stolen goods are kept.</string> <!-- untranslated -->
+    <string name="skilling_dungeon_copper_caverns_name">Cavernas de Cobre</string>
+    <string name="skilling_dungeon_copper_caverns_desc">Una mina abandonada hace mucho bajo las estribaciones. Sus venas de cobre aún brillan en la oscuridad.</string>
+    <string name="skilling_dungeon_dwarven_depths_name">Profundidades Enanas</string>
+    <string name="skilling_dungeon_dwarven_depths_desc">El nivel más profundo de una antigua excavación enana. Ricas venas de metal raro se esconden tras los huesos de sus constructores.</string>
+    <string name="skilling_dungeon_whispering_grove_name">Bosque Susurrante</string>
+    <string name="skilling_dungeon_whispering_grove_desc">Un bosque primigenio donde los árboles han crecido durante miles de años sin perturbación. Algo habla entre las ramas.</string>
+    <string name="skilling_dungeon_corrupted_canopy_name">Dosel Corrompido</string>
+    <string name="skilling_dungeon_corrupted_canopy_desc">Un bosque donde la sombra ha reemplazado la luz del sol. Los árboles sangran savia negra y el aire sabe a magia antigua.</string>
+    <string name="skilling_dungeon_sunken_grotto_name">Gruta Hundida</string>
+    <string name="skilling_dungeon_sunken_grotto_desc">Una cueva marina esculpida por siglos de mareas. Extraños pilares de piedra emergen del agua.</string>
+    <string name="skilling_dungeon_abyssal_lagoon_name">Laguna Abisal</string>
+    <string name="skilling_dungeon_abyssal_lagoon_desc">Una laguna negra e inmóvil sin fondo visible. Los peces aquí brillan tenuemente y se disuelven a los pocos minutos de ser capturados.</string>
+    <string name="skilling_dungeon_crumbling_watchtower_name">Torre de Vigilancia en Ruinas</string>
+    <string name="skilling_dungeon_crumbling_watchtower_desc">Una decrépita torre de piedra encaramada al borde de las estribaciones. Algo sigue guardando lo que alguna vez se almacenó dentro.</string>
+    <string name="skilling_dungeon_shattered_spire_name">Aguja Destrozada</string>
+    <string name="skilling_dungeon_shattered_spire_desc">Los restos de una torre de mago reducida a un campo de escombros. El aire aún crepita con magia residual.</string>
+    <string name="skilling_dungeon_thieves_den_name">Guarida de Ladrones</string>
+    <string name="skilling_dungeon_thieves_den_desc">Un laberinto de túneles bajo las calles de la ciudad, usado por una banda organizada de ladrones.</string>
+    <string name="skilling_dungeon_shadow_vault_name">Bóveda Oscura</string>
+    <string name="skilling_dungeon_shadow_vault_desc">Una bóveda oculta bajo el Sancto Pícaro donde se guardan los bienes más valiosos de la gremio.</string>
 
     <!-- Expeditions -->
-    <string name="nav_expeditions">Expeditions</string> <!-- untranslated -->
-    <string name="expeditions_title">Expeditions</string> <!-- untranslated -->
-    <string name="expedition_explore_button">Explore</string> <!-- untranslated -->
-    <string name="expedition_dungeon_unlocked">Combat dungeon unlocked!</string> <!-- untranslated -->
-    <string name="expedition_discover_hint">Discover via Expeditions</string> <!-- untranslated -->
-    <string name="expedition_loading">Loading…</string> <!-- untranslated -->
-    <string name="expedition_lore_notes">%1$d / %2$d lore notes</string> <!-- untranslated -->
-    <string name="expedition_lock_level">Requires %1$s level %2$d</string> <!-- untranslated -->
-    <string name="expedition_lock_notes">Find all notes in %1$s to unlock</string> <!-- untranslated -->
+    <string name="nav_expeditions">Expediciones</string>
+    <string name="expeditions_title">Expediciones</string>
+    <string name="expedition_explore_button">Explorar</string>
+    <string name="expedition_dungeon_unlocked">¡Mazmorra de combate desbloqueada!</string>
+    <string name="expedition_discover_hint">Descubrir mediante Expediciones</string>
+    <string name="expedition_loading">Cargando…</string>
+    <string name="expedition_lore_notes">%1$d / %2$d notas de historia</string>
+    <string name="expedition_lock_level">Requiere nivel %2$d de %1$s</string>
+    <string name="expedition_lock_notes">Encuentra todas las notas en %1$s</string>
     <string name="expedition_started">%1$s started.</string> <!-- untranslated -->
-    <string name="expedition_lock_prerequisite">Complete a prerequisite to unlock</string> <!-- untranslated -->
-    <string name="label_notes">Notes</string> <!-- untranslated -->
+    <string name="expedition_lock_prerequisite">Completa un requisito previo</string>
+    <string name="label_notes">Notas</string>
 
     <!-- Slayer -->
     <string name="skill_slayer_name">Slayer</string> <!-- untranslated -->
@@ -1195,17 +1195,17 @@
     <string name="house_shrink_title">Shrink</string> <!-- untranslated -->
     <string name="house_shrink_hint">Removes a row of cells from that side. Its cost is refunded and furniture there goes to storage.</string> <!-- untranslated -->
     <string name="house_error_min_size">Rooms can\'t be smaller than 3x3.</string> <!-- untranslated -->
-    <string name="house_dir_north">North</string> <!-- untranslated -->
-    <string name="house_dir_south">South</string> <!-- untranslated -->
-    <string name="house_dir_east">East</string> <!-- untranslated -->
-    <string name="house_dir_west">West</string> <!-- untranslated -->
-    <string name="house_floor_title">Floor</string> <!-- untranslated -->
+    <string name="house_dir_north">Norte</string>
+    <string name="house_dir_south">Sur</string>
+    <string name="house_dir_east">Oriente</string>
+    <string name="house_dir_west">Oeste</string>
+    <string name="house_floor_title">Piso</string>
     <string name="house_floor_dark">Dark wood</string> <!-- untranslated -->
     <string name="house_floor_brick">Stone brick</string> <!-- untranslated -->
     <string name="house_floor_brick_locked">Stone brick (Lv %1$d)</string> <!-- untranslated -->
     <string name="house_cat_furniture">Furniture</string> <!-- untranslated -->
-    <string name="house_cat_walls">Walls</string> <!-- untranslated -->
-    <string name="house_cat_wealth">Wealth</string> <!-- untranslated -->
+    <string name="house_cat_walls">Paredes</string>
+    <string name="house_cat_wealth">Riqueza</string>
     <string name="house_item_wall_v">Wall (Upright)</string> <!-- untranslated -->
     <string name="house_item_wall_h">Wall (Across)</string> <!-- untranslated -->
     <string name="house_cat_wall">Wall Decor</string> <!-- untranslated -->
@@ -1213,11 +1213,11 @@
     <string name="house_banners_empty">Complete a seasonal event to earn a banner you can hang here.</string> <!-- untranslated -->
     <string name="house_banner_placed">On display</string> <!-- untranslated -->
     <string name="house_free">Free</string> <!-- untranslated -->
-    <string name="house_cost_coins">%1$s coins</string> <!-- untranslated -->
+    <string name="house_cost_coins">%1$s monedas</string>
     <string name="house_error_already_placed">That banner is already on display.</string> <!-- untranslated -->
     <string name="house_remove_banner">Take down</string> <!-- untranslated -->
     <string name="house_move_hint">Drag it on the grid to move it somewhere else.</string> <!-- untranslated -->
-    <string name="house_rotate_item">Rotate</string> <!-- untranslated -->
+    <string name="house_rotate_item">Rotar</string>
     <string name="house_nudge_item">Move with arrows</string> <!-- untranslated -->
     <string name="house_outside_title">Outside</string> <!-- untranslated -->
     <string name="house_outside_hint">Choose what the ground around your house looks like.</string> <!-- untranslated -->
@@ -1235,7 +1235,7 @@
     <string name="house_item_bed_dark_alt">Dark Bed (Peach)</string> <!-- untranslated -->
     <string name="house_sub_beds">Beds</string> <!-- untranslated -->
     <string name="house_sub_bookshelves">Bookshelves</string> <!-- untranslated -->
-    <string name="house_sub_tables">Tables</string> <!-- untranslated -->
+    <string name="house_sub_tables">Mesas</string>
     <string name="house_item_barrel_default">Barrel</string> <!-- untranslated -->
     <string name="house_item_barrel_light">Light Barrel</string> <!-- untranslated -->
     <string name="house_item_barrel_dark">Dark Barrel</string> <!-- untranslated -->
@@ -1266,7 +1266,7 @@
     <string name="house_item_tabledecor_silver_plates">Silver Plate Stack</string> <!-- untranslated -->
     <string name="house_item_tabledecor_silver_tall_pitcher">Tall Silver Pitcher</string> <!-- untranslated -->
     <string name="house_item_tabledecor_silver_wide_pitcher">Wide Silver Pitcher</string> <!-- untranslated -->
-    <string name="house_item_table_default_small">Small Table</string> <!-- untranslated -->
+    <string name="house_item_table_default_small">Mesa Pequeña</string>
     <string name="house_item_table_default_large">Large Table</string> <!-- untranslated -->
     <string name="house_item_table_default_long_v">Long Table</string> <!-- untranslated -->
     <string name="house_item_table_default_cloth">Tablecloth Table</string> <!-- untranslated -->
@@ -1355,7 +1355,7 @@
     <string name="slayer_already_owned">Already owned.</string> <!-- untranslated -->
     <string name="slayer_purchased">Added to inventory.</string> <!-- untranslated -->
     <string name="slayer_owned">Owned</string> <!-- untranslated -->
-    <string name="slayer_lamp_purchased">+%1$s XP added to %2$s!</string> <!-- untranslated -->
+    <string name="slayer_lamp_purchased">+%1$s XP añadida a %2$s!</string>
     <string name="slayer_lamp_pick_skill">Choose a skill</string> <!-- untranslated -->
     <string name="slayer_lamp_max_level_warning">⚠ XP will be wasted</string> <!-- untranslated -->
     <!-- Translator note: %1$d = level after using the lamp, %2$d = level gain, last value = progress percent into the level -->
@@ -1367,8 +1367,8 @@
     <string name="slayer_lamp_large_desc">+50,000 XP to any skill</string> <!-- untranslated -->
     <string name="slayer_found_in">Found in: %1$s</string> <!-- untranslated -->
     <string name="slayer_requires">Requires: %1$s</string> <!-- untranslated -->
-    <string name="slayer_add_dungeon_to_queue">Add Dungeon to Queue</string> <!-- untranslated -->
-    <string name="slayer_queue_added">Added to queue: %1$s.</string> <!-- untranslated -->
+    <string name="slayer_add_dungeon_to_queue">Añadir Mazmorra a la Cola</string>
+    <string name="slayer_queue_added">Añadido a la cola: %1$s.</string>
     <string name="slayer_queue_full">Queue is full (3/3).</string>
     <string name="slayer_foretell_title">Foretell Future Tasks</string> <!-- untranslated -->
     <string name="slayer_foretell_desc">Pre-assign upcoming Slayer tasks by paying bones. They are assigned automatically when your current task is completed.</string> <!-- untranslated -->
@@ -1444,10 +1444,10 @@
     <string name="crafting_cat_ammunition">Munición</string>
     <string name="crafting_cat_jewellery">Joyería</string>
     <string name="crafting_cat_potion">Poción</string>
-    <string name="crafting_cat_arrow">Arrow</string> <!-- untranslated -->
-    <string name="crafting_cat_bow">Bow</string> <!-- untranslated -->
+    <string name="crafting_cat_arrow">Flecha</string>
+    <string name="crafting_cat_bow">Arco</string>
     <string name="crafting_cat_plank">Tablón</string>
-    <string name="crafting_cat_staff">Staff</string> <!-- untranslated -->
+    <string name="crafting_cat_staff">Bastón</string>
 
     <!-- Crafting tier filter chips -->
     <string name="crafting_tier_adamantite">Adamantio</string>
@@ -1469,17 +1469,17 @@
     <string name="crafting_tier_yew">Tejo</string>
 
     <!-- Bone Altar -->
-    <string name="bone_altar_title">Bone Altar</string> <!-- untranslated -->
-    <string name="bone_altar_open">Use Altar</string> <!-- untranslated -->
-    <string name="bone_altar_select_prompt">Select a bone to bury at the altar</string> <!-- untranslated -->
-    <string name="bone_altar_tap">Tap to Bury</string> <!-- untranslated -->
-    <string name="bone_altar_change_bone">Change</string> <!-- untranslated -->
+    <string name="bone_altar_title">Altar de Huesos</string>
+    <string name="bone_altar_open">Usar Altar</string>
+    <string name="bone_altar_select_prompt">Selecciona un hueso para enterrar</string>
+    <string name="bone_altar_tap">Toca para Enterrar</string>
+    <string name="bone_altar_change_bone">Cambiar</string>
     <string name="bone_altar_combo_count" formatted="false">Combo ×%d</string> <!-- untranslated -->
-    <string name="bone_altar_bonus_active" formatted="false">+50% XP bonus!</string> <!-- untranslated -->
-    <string name="bone_altar_session_xp" formatted="false">+%s XP this session</string> <!-- untranslated -->
-    <string name="bone_altar_buried_count" formatted="false">%d buried</string> <!-- untranslated -->
-    <string name="bone_altar_no_bones">No bones in inventory</string> <!-- untranslated -->
-    <string name="bone_altar_cape_awarded">Prayer cape earned!</string> <!-- untranslated -->
+    <string name="bone_altar_bonus_active" formatted="false">+50% bono de XP!</string>
+    <string name="bone_altar_session_xp" formatted="false">+%s XP esta sesión</string>
+    <string name="bone_altar_buried_count" formatted="false">%d enterrados</string>
+    <string name="bone_altar_no_bones">No hay huesos en el inventario</string>
+    <string name="bone_altar_cape_awarded">¡Capa de Oración conseguida!</string>
 
     <!-- Firemaking rework + ash catalyst + fertilizer -->
     <string name="firemaking_logs_in_inventory">en inventario</string>
@@ -1512,16 +1512,16 @@
     <string name="thieving_npc_artisan_name">Artesano</string>
     <string name="thieving_npc_noble_name">Noble</string> <!-- untranslated -->
     <string name="thieving_npc_city_guard_name">Guardia Urbano</string>
-    <string name="thieving_npc_royal_guard_name">Royal Guard</string> <!-- untranslated -->
+    <string name="thieving_npc_royal_guard_name">Guardia Real</string>
     <string name="thieving_npc_knight_name">Caballero</string>
-    <string name="thieving_npc_bishop_name">Bishop</string> <!-- untranslated -->
+    <string name="thieving_npc_bishop_name">Obispo</string>
     <string name="thieving_npc_high_priest_name">Sumo Sacerdote</string>
 
     <!-- Town building upgrade UI -->
     <string name="town_upgrade_section_title">Edificio del Pueblo</string>
     <string name="town_building_inn_name">Inn</string> <!-- untranslated -->
     <string name="town_building_guild_hall_name">Guild Hall</string> <!-- untranslated -->
-    <string name="town_building_church_name">Church</string> <!-- untranslated -->
+    <string name="town_building_church_name">Iglesia</string>
     <string name="town_building_current_tier">Nivel %1$d / 3</string>
     <string name="town_building_maxed_label">Totalmente Mejorado</string>
     <string name="town_upgrade_next_label">Siguiente Mejora</string>
@@ -1540,18 +1540,18 @@
     <string name="town_guild_no_bonus">Mejora para reducir requisitos de misiones</string>
     <string name="town_church_active_bonus">Bendiciones duran %1$dh (por defecto: 24h)</string>
     <string name="town_church_no_bonus">Mejora para extender la duración de bendiciones</string>
-    <string name="town_building_fairgrounds_name">Fairgrounds</string> <!-- untranslated -->
+    <string name="town_building_fairgrounds_name">Feria</string>
     <string name="town_fairgrounds_no_bonus">4 active minigames available, 10-minute cooldowns</string> <!-- untranslated -->
     <string name="town_fairgrounds_t1_bonus" formatted="false">Unlocks Pick-a-Cup, cooldowns reduced to 7.5 minutes, +5% idle ticket chance</string> <!-- untranslated -->
     <string name="town_fairgrounds_t2_bonus" formatted="false">Unlocks Higher or Lower, +10% idle ticket chance</string> <!-- untranslated -->
     <string name="town_fairgrounds_t3_bonus" formatted="false">Cooldowns reduced to 5 minutes, +15% idle ticket chance</string> <!-- untranslated -->
-    <string name="town_building_garden_name">Garden</string> <!-- untranslated -->
+    <string name="town_building_garden_name">Jardín</string>
     <plurals name="town_garden_bonus">
         <item quantity="zero">No extra farm plots yet</item>
         <item quantity="one">+%1$d extra farm plot</item>
         <item quantity="other">+%1$d extra farm plots</item>
     </plurals> <!-- untranslated -->
-    <string name="town_building_queue_master_name">Queue Master</string> <!-- untranslated -->
+    <string name="town_building_queue_master_name">Maestro de Colas</string>
     <plurals name="town_queue_master_bonus">
         <item quantity="zero">No extra queue slots yet</item>
         <item quantity="one">+%1$d extra queue slot</item>
@@ -1735,62 +1735,62 @@
 
     <!-- ===== Carnival ===== -->
     <string name="carnival_title">Carnaval</string>
-    <string name="carnival_desc">Games, prizes, and merriment!</string> <!-- untranslated -->
+    <string name="carnival_desc">¡Juegos, premios y diversión!</string>
     <string name="carnival_prize_xp_lamp_small_name">Small XP Lamp</string> <!-- untranslated -->
     <string name="carnival_prize_xp_lamp_small_desc">Grants 10,000 XP to a chosen skill.</string> <!-- untranslated -->
     <string name="carnival_prize_xp_lamp_large_name">Large XP Lamp</string> <!-- untranslated -->
     <string name="carnival_prize_xp_lamp_large_desc">Grants 50,000 XP to a chosen skill.</string> <!-- untranslated -->
-    <string name="carnival_ticket_balance">Tickets: %1$d</string> <!-- untranslated -->
-    <string name="carnival_idle_tab">Idle Games</string> <!-- untranslated -->
-    <string name="carnival_active_tab">Active Games</string> <!-- untranslated -->
-    <string name="carnival_shop_tab">Prize Shop</string> <!-- untranslated -->
-    <string name="carnival_idle_hint">Queue a session to earn tickets. A higher relevant skill level means more tickets per session.</string> <!-- untranslated -->
-    <string name="carnival_archery_range">Archery Range</string> <!-- untranslated -->
-    <string name="carnival_idle_desc_archery">Shoot at moving targets. Ranged level boosts ticket yield.</string> <!-- untranslated -->
-    <string name="carnival_strongman_competition">Strongman Competition</string> <!-- untranslated -->
-    <string name="carnival_idle_desc_strongman">Lift stones and swing hammers. Strength level boosts ticket yield.</string> <!-- untranslated -->
-    <string name="carnival_wizards_duel">Wizard\'s Duel</string> <!-- untranslated -->
-    <string name="carnival_idle_desc_wizard">Cast illusion spells against rival mages. Magic level boosts ticket yield.</string> <!-- untranslated -->
-    <string name="carnival_fishing_derby">Fishing Derby</string> <!-- untranslated -->
-    <string name="carnival_idle_desc_fishing">Catch the biggest fish in the carnival pond. Fishing level boosts ticket yield.</string> <!-- untranslated -->
-    <string name="carnival_skill_level">%1$s Lv.%2$d</string> <!-- untranslated -->
-    <string name="carnival_ticket_yield">~%1$d tickets/session</string> <!-- untranslated -->
-    <string name="carnival_queue">Queue Session</string> <!-- untranslated -->
-    <string name="carnival_ring_toss">Ring Toss</string> <!-- untranslated -->
-    <string name="carnival_active_ring_desc">Time your throw when the indicator hits the golden target zone.</string> <!-- untranslated -->
-    <string name="carnival_ring_target_hint" formatted="false">Aim for the centre (45%–55%)</string> <!-- untranslated -->
-    <string name="carnival_throw">Throw!</string> <!-- untranslated -->
-    <string name="carnival_hammer_strike">Hammer Strike</string> <!-- untranslated -->
-    <string name="carnival_active_hammer_desc">Strike when the power meter is at its peak for maximum score.</string> <!-- untranslated -->
-    <string name="carnival_power_label">Power Meter</string> <!-- untranslated -->
-    <string name="carnival_hammer_miss_zone">Miss</string> <!-- untranslated -->
-    <string name="carnival_hammer_good_zone">Good</string> <!-- untranslated -->
-    <string name="carnival_hammer_perfect_zone">Perfect!</string> <!-- untranslated -->
-    <string name="carnival_strike">Strike!</string> <!-- untranslated -->
-    <string name="carnival_potion_sequence">Potion Sequence</string> <!-- untranslated -->
-    <string name="carnival_active_sequence_desc">Watch the potion colours and tap them back in the same order.</string> <!-- untranslated -->
-    <string name="carnival_sequence_watch">Watch the sequence…</string> <!-- untranslated -->
-    <string name="carnival_sequence_input">Tap colour %1$d of %2$d</string> <!-- untranslated -->
-    <string name="carnival_item_appraisal">Item Appraisal</string> <!-- untranslated -->
-    <string name="carnival_active_appraisal_desc">Which item is worth more in the open market?</string> <!-- untranslated -->
-    <string name="carnival_appraisal_which">Which is worth more?</string> <!-- untranslated -->
-    <string name="carnival_play">Play</string> <!-- untranslated -->
+    <string name="carnival_ticket_balance">Entradas: %1$d</string>
+    <string name="carnival_idle_tab">Juegos en cola</string>
+    <string name="carnival_active_tab">Juegos activos</string>
+    <string name="carnival_shop_tab">Tienda de premios</string>
+    <string name="carnival_idle_hint">Pon en cola una sesión para ganar entradas. Un nivel más alto aumenta las entradas por sesión.</string>
+    <string name="carnival_archery_range">Campo de tiro</string>
+    <string name="carnival_idle_desc_archery">Dispara a blancos móviles. El nivel de distancia aumenta el rendimiento.</string>
+    <string name="carnival_strongman_competition">Competición de fuerza</string>
+    <string name="carnival_idle_desc_strongman">Levanta piedras y balancea martillos. El nivel de fuerza aumenta el rendimiento.</string>
+    <string name="carnival_wizards_duel">Duelo de magos</string>
+    <string name="carnival_idle_desc_wizard">Lanza hechizos de ilusión contra magos rivales. El nivel de magia aumenta el rendimiento.</string>
+    <string name="carnival_fishing_derby">Concurso de pesca</string>
+    <string name="carnival_idle_desc_fishing">Atrapa el pez más grande del estanque. El nivel de pesca aumenta el rendimiento.</string>
+    <string name="carnival_skill_level">%1$s Nv.%2$d</string>
+    <string name="carnival_ticket_yield">~%1$d entradas/sesión</string>
+    <string name="carnival_queue">Poner en cola</string>
+    <string name="carnival_ring_toss">Lanzamiento de aros</string>
+    <string name="carnival_active_ring_desc">Lanza cuando el indicador llegue a la zona dorada.</string>
+    <string name="carnival_ring_target_hint" formatted="false">Apunta al centro (45%–55%)</string>
+    <string name="carnival_throw">¡Lanzar!</string>
+    <string name="carnival_hammer_strike">Golpe de martillo</string>
+    <string name="carnival_active_hammer_desc">Golpea cuando el medidor de fuerza esté en su punto máximo.</string>
+    <string name="carnival_power_label">Medidor de fuerza</string>
+    <string name="carnival_hammer_miss_zone">Fallo</string>
+    <string name="carnival_hammer_good_zone">Bien</string>
+    <string name="carnival_hammer_perfect_zone">¡Perfecto!</string>
+    <string name="carnival_strike">¡Golpear!</string>
+    <string name="carnival_potion_sequence">Secuencia de pociones</string>
+    <string name="carnival_active_sequence_desc">Observa los colores de las pociones y repítelos en el mismo orden.</string>
+    <string name="carnival_sequence_watch">Observa la secuencia…</string>
+    <string name="carnival_sequence_input">Toca el color %1$d de %2$d</string>
+    <string name="carnival_item_appraisal">Tasación de objetos</string>
+    <string name="carnival_active_appraisal_desc">¿Qué objeto vale más en el mercado?</string>
+    <string name="carnival_appraisal_which">¿Cuál vale más?</string>
+    <string name="carnival_play">Jugar</string>
     <string name="carnival_cooldown">Ready in %1$dh %2$dm</string>
-    <string name="carnival_ticket_cost">%1$d tickets</string> <!-- untranslated -->
-    <string name="carnival_redeem">Redeem</string> <!-- untranslated -->
-    <string name="carnival_queue_added">Added to queue: %1$s.</string> <!-- untranslated -->
+    <string name="carnival_ticket_cost">%1$d entradas</string>
+    <string name="carnival_redeem">Canjear</string>
+    <string name="carnival_queue_added">Añadido a la cola: %1$s.</string>
     <string name="carnival_queue_full">Queue is full (3/3).</string>
-    <string name="carnival_ring_won">Bull\'s-eye! +%1$d tickets</string> <!-- untranslated -->
-    <string name="carnival_ring_missed">Missed the target!</string> <!-- untranslated -->
-    <string name="carnival_hammer_perfect">Perfect strike! +%1$d tickets</string> <!-- untranslated -->
-    <string name="carnival_hammer_good">Good hit! +%1$d tickets</string> <!-- untranslated -->
-    <string name="carnival_hammer_miss">Missed the swing!</string> <!-- untranslated -->
-    <string name="carnival_sequence_correct">Sequence correct! +%1$d tickets</string> <!-- untranslated -->
-    <string name="carnival_sequence_wrong">Wrong order! Try again.</string> <!-- untranslated -->
-    <string name="carnival_appraisal_correct">Correct! +%1$d tickets</string> <!-- untranslated -->
-    <string name="carnival_appraisal_wrong">Wrong! The more valuable item was %1$s.</string> <!-- untranslated -->
-    <string name="carnival_redeemed">Redeemed: %1$s!</string> <!-- untranslated -->
-    <string name="carnival_not_enough_tickets">Not enough tickets.</string> <!-- untranslated -->
+    <string name="carnival_ring_won">¡Diana! +%1$d entradas</string>
+    <string name="carnival_ring_missed">¡Fallo en el objetivo!</string>
+    <string name="carnival_hammer_perfect">¡Golpe perfecto! +%1$d entradas</string>
+    <string name="carnival_hammer_good">¡Buen golpe! +%1$d entradas</string>
+    <string name="carnival_hammer_miss">¡Golpe fallido!</string>
+    <string name="carnival_sequence_correct">¡Secuencia correcta! +%1$d entradas</string>
+    <string name="carnival_sequence_wrong">¡Orden incorrecto! Inténtalo de nuevo.</string>
+    <string name="carnival_appraisal_correct">¡Correcto! +%1$d entradas</string>
+    <string name="carnival_appraisal_wrong">¡Incorrecto! El objeto más valioso era %1$s.</string>
+    <string name="carnival_redeemed">¡Canjeado: %1$s!</string>
+    <string name="carnival_not_enough_tickets">No hay suficientes entradas.</string>
     <string name="carnival_lamp_redeemed">+%1$s XP in %2$s!</string>
     <string name="carnival_shell_game">Pick-a-Cup</string> <!-- untranslated -->
     <string name="carnival_active_shell_desc">Watch which cup hides the gem, then pick it after the shuffle!</string> <!-- untranslated -->
