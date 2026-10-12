@@ -1,0 +1,65 @@
+{
+  "repo": {
+    "timestamp": 1791845510815
+  },
+  "packages": {
+    "com.tristinbaker.idlefantasy": {
+      "metadata": {
+        "lastUpdated": 1791845463819
+      },
+      "versions": {
+        "6ad0fd88771c605d605b4306b75fe98248d3bdc12c9dd0fef9d92d35d43965b5": null,
+        "50155ed79d2ab052399d5cd155f03447d354067b90cc7edf6466801265b5dd3c": {
+          "added": 1791845463819,
+          "file": {
+            "name": "/com.tristinbaker.idlefantasy_158000.apk",
+            "sha256": "50155ed79d2ab052399d5cd155f03447d354067b90cc7edf6466801265b5dd3c",
+            "size": 11371721
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.15.8",
+            "versionCode": 158000,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "99a980a934cb0149bfbdd5f4358471ffe69302e0467bae4d8574d4feeda34010"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.USE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "com.tristinbaker.idlefantasy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          },
+          "whatsNew": {
+            "en-US": "• Redesigned the farming patch cards and replaced the fertilizer chips with a dropdown\n• The plant sheet now preselects the best ash you own\n• Potion and spell dropdowns now list the strongest options first\n• The Tower spell dropdown now shows locked spells greyed out, like the Combat tab\n• Added an inventory search box and a missing-only achievements filter to the Profile\n• Added boss defeats to the Collect summary when several sessions finish at once\n• The Quests tab now hides once every quest"
+          }
+        }
+      }
+    }
+  }
+}

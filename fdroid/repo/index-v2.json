@@ -14,7 +14,7 @@
       }
     },
     "address": "https://idlefantasy.tristinbaker.xyz/fdroid/repo",
-    "timestamp": 1791200123409,
+    "timestamp": 1791845510815,
     "categories": {
       "Games": {
         "name": {
@@ -31,7 +31,7 @@
           "Games"
         ],
         "issueTracker": "https://github.com/tristinbaker/IdleFantasy/issues",
-        "lastUpdated": 1791200079242,
+        "lastUpdated": 1791845463819,
         "license": "GPL-3.0-only",
         "sourceCode": "https://github.com/tristinbaker/IdleFantasy",
         "screenshots": {
@@ -140,12 +140,12 @@
         "preferredSigner": "99a980a934cb0149bfbdd5f4358471ffe69302e0467bae4d8574d4feeda34010"
       },
       "versions": {
-        "6ad0fd88771c605d605b4306b75fe98248d3bdc12c9dd0fef9d92d35d43965b5": {
-          "added": 1791200079242,
+        "50155ed79d2ab052399d5cd155f03447d354067b90cc7edf6466801265b5dd3c": {
+          "added": 1791845463819,
           "file": {
-            "name": "/com.tristinbaker.idlefantasy_157000.apk",
-            "sha256": "6ad0fd88771c605d605b4306b75fe98248d3bdc12c9dd0fef9d92d35d43965b5",
-            "size": 11284865
+            "name": "/com.tristinbaker.idlefantasy_158000.apk",
+            "sha256": "50155ed79d2ab052399d5cd155f03447d354067b90cc7edf6466801265b5dd3c",
+            "size": 11371721
           },
           "manifest": {
             "nativecode": [
@@ -154,8 +154,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "1.15.7",
-            "versionCode": 157000,
+            "versionName": "1.15.8",
+            "versionCode": 158000,
             "usesSdk": {
               "minSdkVersion": 26,
               "targetSdkVersion": 35
@@ -187,7 +187,7 @@
             ]
           },
           "whatsNew": {
-            "en-US": "• Buffed Thieving: higher XP from every target, better base success, and failed attempts no longer stun you\n• Lockpicks now boost Thieving XP like other gathering tools\n• Fixed the Thieving list showing XP per attempt and ignoring lockpick and prestige success bonuses\n• Fixed fishing losing the base catch on minutes the bonus table hit\n• Fixed queued Elder Isle mining, woodcutting and fishing using mainland boosts\n• Fixed skill XP previews and queue estimates leaving out prestige XP bonuses\n• Fi"
+            "en-US": "• Redesigned the farming patch cards and replaced the fertilizer chips with a dropdown\n• The plant sheet now preselects the best ash you own\n• Potion and spell dropdowns now list the strongest options first\n• The Tower spell dropdown now shows locked spells greyed out, like the Combat tab\n• Added an inventory search box and a missing-only achievements filter to the Profile\n• Added boss defeats to the Collect summary when several sessions finish at once\n• The Quests tab now hides once every quest"
           }
         },
         "df60f1f69dd5a3a1d2fff1cedbcd74ee8f43705dc76cf676f7ee9a8cceaa7a33": {
