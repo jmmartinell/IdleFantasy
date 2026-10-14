@@ -14,7 +14,7 @@
       }
     },
     "address": "https://idlefantasy.tristinbaker.xyz/fdroid/repo",
-    "timestamp": 1791845510815,
+    "timestamp": 1791977189723,
     "categories": {
       "Games": {
         "name": {
@@ -31,7 +31,7 @@
           "Games"
         ],
         "issueTracker": "https://github.com/tristinbaker/IdleFantasy/issues",
-        "lastUpdated": 1791845463819,
+        "lastUpdated": 1791977143686,
         "license": "GPL-3.0-only",
         "sourceCode": "https://github.com/tristinbaker/IdleFantasy",
         "screenshots": {
@@ -140,12 +140,12 @@
         "preferredSigner": "99a980a934cb0149bfbdd5f4358471ffe69302e0467bae4d8574d4feeda34010"
       },
       "versions": {
-        "50155ed79d2ab052399d5cd155f03447d354067b90cc7edf6466801265b5dd3c": {
-          "added": 1791845463819,
+        "944730842de68f5d3807eb7d87a7bbd9784f8f295d1584bcace83f68e9d17786": {
+          "added": 1791977143686,
           "file": {
-            "name": "/com.tristinbaker.idlefantasy_158000.apk",
-            "sha256": "50155ed79d2ab052399d5cd155f03447d354067b90cc7edf6466801265b5dd3c",
-            "size": 11371721
+            "name": "/com.tristinbaker.idlefantasy_159000.apk",
+            "sha256": "944730842de68f5d3807eb7d87a7bbd9784f8f295d1584bcace83f68e9d17786",
+            "size": 11379061
           },
           "manifest": {
             "nativecode": [
@@ -154,8 +154,8 @@
               "x86",
               "x86_64"
             ],
-            "versionName": "1.15.8",
-            "versionCode": 158000,
+            "versionName": "1.15.9",
+            "versionCode": 159000,
             "usesSdk": {
               "minSdkVersion": 26,
               "targetSdkVersion": 35
@@ -187,7 +187,7 @@
             ]
           },
           "whatsNew": {
-            "en-US": "• Redesigned the farming patch cards and replaced the fertilizer chips with a dropdown\n• The plant sheet now preselects the best ash you own\n• Potion and spell dropdowns now list the strongest options first\n• The Tower spell dropdown now shows locked spells greyed out, like the Combat tab\n• Added an inventory search box and a missing-only achievements filter to the Profile\n• Added boss defeats to the Collect summary when several sessions finish at once\n• The Quests tab now hides once every quest"
+            "en-US": "• Added a Time elapsed row to the session summary\n• The Guild Hall now hides its quests tab once your guild reaches max level\n• Patient Angler II now shortens the fishing flow-state interval by 30 minutes (was 10)\n• Sigil Stones now boost small drops too, so each Topaz adds a real chance of an extra Ancient Sigil\n• Mining gem drop chance is now capped at 100%\n• Fixed an interrupted character switch being able to erase the character you were leaving\n• Fixed queued Elder Isle mining, woodcutting a"
           }
         },
         "df60f1f69dd5a3a1d2fff1cedbcd74ee8f43705dc76cf676f7ee9a8cceaa7a33": {

@@ -1,0 +1,65 @@
+{
+  "repo": {
+    "timestamp": 1791977189723
+  },
+  "packages": {
+    "com.tristinbaker.idlefantasy": {
+      "metadata": {
+        "lastUpdated": 1791977143686
+      },
+      "versions": {
+        "50155ed79d2ab052399d5cd155f03447d354067b90cc7edf6466801265b5dd3c": null,
+        "944730842de68f5d3807eb7d87a7bbd9784f8f295d1584bcace83f68e9d17786": {
+          "added": 1791977143686,
+          "file": {
+            "name": "/com.tristinbaker.idlefantasy_159000.apk",
+            "sha256": "944730842de68f5d3807eb7d87a7bbd9784f8f295d1584bcace83f68e9d17786",
+            "size": 11379061
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.15.9",
+            "versionCode": 159000,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "99a980a934cb0149bfbdd5f4358471ffe69302e0467bae4d8574d4feeda34010"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.USE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "com.tristinbaker.idlefantasy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          },
+          "whatsNew": {
+            "en-US": "• Added a Time elapsed row to the session summary\n• The Guild Hall now hides its quests tab once your guild reaches max level\n• Patient Angler II now shortens the fishing flow-state interval by 30 minutes (was 10)\n• Sigil Stones now boost small drops too, so each Topaz adds a real chance of an extra Ancient Sigil\n• Mining gem drop chance is now capped at 100%\n• Fixed an interrupted character switch being able to erase the character you were leaving\n• Fixed queued Elder Isle mining, woodcutting a"
+          }
+        }
+      }
+    }
+  }
+}
